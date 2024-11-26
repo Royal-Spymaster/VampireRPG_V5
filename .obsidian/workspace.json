@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "f47855322d77751d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a71fa50205517ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4625a61d432c6a54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predator Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Predator Type"
+            }
+          },
+          {
+            "id": "23a7c3bc988a15c0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regras Fundamentais.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Regras Fundamentais"
+            }
+          },
+          {
+            "id": "979e69c7b9e6b91a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dificuldade e Conflitos.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dificuldade e Conflitos"
+            }
+          },
+          {
+            "id": "d3ee2222c91b87ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entendendo Dados e Ficha.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Entendendo Dados e Ficha"
+            }
+          },
+          {
+            "id": "f84f5e824f998ca6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fome.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Fome"
+            }
+          },
+          {
+            "id": "03f5c4bea98bb036",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c972049c175b7a06",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b89f7739a1ebbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1ad44efcd958df5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b54a58806790347",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf951d482f7fe7b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.509765625
+  },
+  "right": {
+    "id": "4c4593135122a3ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "117e73d14bed674f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb42f202f9faaf6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fome"
+            }
+          },
+          {
+            "id": "e3e59e0175270529",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Regras Vampire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Regras Vampire"
+            }
+          },
+          {
+            "id": "0691368234a66acb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e34ad2fc2c6dc59e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fome"
+            }
+          },
+          {
+            "id": "9a5e53caa2ccff90",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2a61eb79e0f00522",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
+          },
+          {
+            "id": "924a55ae90f5087a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "03f5c4bea98bb036",
+  "lastOpenFiles": [
+    "Fome.md",
+    "Lore/Camarilla.md",
+    "Kindred.md",
+    "Hunting and Feeding.md",
+    "Images/Info/Pasted image 20241125103243.png",
+    "Entendendo Dados e Ficha.md",
+    "Images/Info/Pasted image 20241125102148.png",
+    "Images/Info/Pasted image 20241125070643.png",
+    "Images/Info/Pasted image 20241125071048.png",
+    "Images/Info/Pasted image 20241125071042.png",
+    "Images/Info/Pasted image 20241125071032.png",
+    "Dificuldade e Conflitos.md",
+    "Images/Info/Pasted image 20241125070130.png",
+    "Regras Fundamentais.md",
+    "Humanidade.md",
+    "Disciplinas.md",
+    "Predator Type.md",
+    "Mapa de Relacionamentos.md",
+    "Mérito.md",
+    "Lore/Segunda Inquisição.md",
+    "Lore/Anarquistas.md",
+    "Advantages.md",
+    "Lore/Sabbat.md",
+    "Lore",
+    "Recording 20241125042949.m4a",
+    "Audio/Tips/Recording Messy Critical.m4a",
+    "Recording 20241125043310.m4a",
+    "Dano.md",
+    "Recording 20241125042829.m4a",
+    "Images/Styles/Pasted image 20241125041006.png",
+    "Regras Avançadas.md",
+    "Untitled.canvas",
+    "Images/Info/Pasted image 20241124125613.png",
+    "Dyscrasias.md",
+    "Character.md",
+    "Resonance.md",
+    "Images/Styles/Pasted image 20241124095608.png",
+    "2024-11-24.md",
+    "[Character.md",
+    "Audio/Tips",
+    "Audio",
+    "Recording 20241123020641.m4a",
+    "Untitled 1.canvas",
+    "Estratégias.md",
+    "External Documents/Vampire the Masquerade.pdf",
+    "External Documents/Quaternario.pdf",
+    "notes/Predator Type/Para mais informações, veja como funcionam as -Hunting and Feeding-mecânicas de alimentação.md"
+  ]
+}
