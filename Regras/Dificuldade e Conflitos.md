@@ -41,7 +41,6 @@ Algumas tarefas exigem equipamentos especializados, como arrombar uma fechadura,
   
 - **Tarefa Impossível Sem Equipamento**: Caso a tarefa seja impossível de ser realizada sem equipamento adequado, o Narrador pode escolher impedir tentativas; nenhum dado será rolado.
 
-
 # Contests
 
 Disputas servem para oposições diretas. Hackear um sistema monitorado, passar furtivamente por um guarda que está procurando você, seduzir um policial infiltrado...
@@ -116,10 +115,13 @@ Em um conflito básico, tanto o atacante quanto o defensor rolam suas pools simu
 
 O combate à distância é resolvido como um [[#Contests|contest]], geralmente contra (**Dexterity + Athletics**) do alvo, que seria como um CA do D&D nesse caso.
 
+>🧩 **Dica Para o Narrador:** leia mais em [[Regras Avançadas#Ranged Combat|Ranged Combat]], nas [[Regras Avançadas]].
+
 - **Combate à distância de dois lados**: Se ambos os combatentes estão atacando um ao outro à distância, pode-se resolver como um conflito de **Firearms** de dois lados, conforme descrito anteriormente em [[#Resolvendo as Pools e Dano]].
 
 > Essa resolução assume que o alvo tem acesso a uma **[[#Cover|cobertura limitada]]**.
 
+---
 ### Dodge e Cover
 
 #### Cover
@@ -127,26 +129,29 @@ Contra ataques à distância, procurar cobertura é essencial. Veja como o níve
 
 ![[Pasted image 20241124125613.png]]
 
-Defense Pool: o padrão é  (**Dex** + **Athletics**)
+**Defense Pool**: o padrão é  (**Dex** + **Athletics**)
+
+>🔫**Nota Importante:** alvos estáticos (parados) não possuem defense pool, então fica como Dificuldade 1 para acertá-lo.
 
 - **Sem Cover:** Um personagem que não possui nenhum tipo de cover contra ataques à distância deve **subtrair 2 dados da *defense pool***. 
 
-- **Pequena Camuflagem:** Moitas, uma pequena árvore. ***Subtrai 2 dados da defense pool**.***
+- **Pequena Camuflagem:** Moitas, uma pequena árvore. 
+  ***Subtrai 2 dados da defense pool.***
 
-- **Cover Limitado**: Uma cobertura limitada, como um carro, esquina de prédio. Neste caso, ***a defense pool não sofre alterações.***
+- **Cover Limitado**: Uma cobertura limitada, como um carro, esquina de prédio. 
+  Neste caso, ***a defense pool não sofre alterações.***
 
 - **Cover Melhorado**: uma cobertura própria para confronto, como fortificações de concreto em guerrilhas, sacos de areia. ***Adicione  + 1 dado na defense pool***.
 
 - **Cover Superior**: Algo como uma fenda de tiro, é uma abertura estreita projetada para defesa, encontrada em veículos blindados, como **IFVs (Veículos de Combate de Infantaria)**, ou em fortificações. Permite que os ocupantes disparem armas contra inimigos externos enquanto permanecem protegidos. 
   ***Adicione +2 dados na defense pool.***
 
-
-
 #### Dodge 
-Quando em um briga que envolva ***Brawl*** ou ***Melee***, um personagem pode adotar uma postura defensa de esquiva, usando (**Dex** + **Athletics**) em vez de uma skill de combate para se defender.
+Quando em um briga que envolva ***Brawl*** ou ***Melee***, um personagem pode adotar uma postura defensiva de esquiva, usando (**Dex** + **Athletics**) em vez de uma skill de combate para se defender.
 
-Se ele assim for escolhido, o defensor **não inflige [[dano]] no oponente** se ganharam o [[#Contests|contest]], não importa a [[#Margem|margem]].
+Se ele assim for escolhido, o defensor **não inflige [[Dano]] no oponente** se ganharam o [[#Contests|contest]], não importa a [[#Margem|margem]].
 
+---
 ### Múltiplos Oponentes
 
 - Defendendo de Múltiplos Oponentes Simultaneamente: O personagem perderá **1 dado da pool, para cada adversário adicional que o ataque.**
@@ -163,10 +168,11 @@ Se ele assim for escolhido, o defensor **não inflige [[dano]] no oponente** se 
 >	- **Primeiro ataque:** 4 dados.
 >	- **Segundo ataque:** 3 dados.
 
+---
 
 ## Quem Vai Primeiro?
 
-A menos que um dos lados tenha **surpresa** (geralmente obtida com sucesso em um teste anterior, como tática ou furtividade para preparar uma emboscada), os personagens agem na seguinte ordem decrescente de prioridade:
+A menos que um dos lados tenha [[Regras Avançadas#Ataques-Surpresa|ataque surpresa]] (geralmente obtida com sucesso em um teste anterior, como tática ou furtividade para preparar uma emboscada), os personagens agem na seguinte ordem decrescente de prioridade:
 
 1. **Combate corpo a corpo já em andamento**.
 2. **Combate à distância**.
@@ -184,12 +190,34 @@ No conflito do exemplo encontrado no [[#Início de Cada Turno]], ficaria algo co
 
 >**Nota**: A dice pool de "desempate" pode ser modificada circunstancialmente pelo Narrador. Afinal, ele pode julgar que algumas [[Disciplinas]] afetariam esse tipo de teste de desempate. Um vampiro com Auspex muito alto pode ser difícil pegar de surpresa; o mesmo vale para Celeridade, etc.
 
->⚔️ **Nota Ainda Mais Importante:** Em conflitos mais elaborados, sobretudo PvP, uma ordem de iniciativa mais tradicional existe e pode ser encontrada nas [[Regras Avançadas]]
+>⚔️ **Nota Ainda Mais Importante:** Em conflitos mais elaborados, sobretudo PvP, uma ordem de iniciativa mais tradicional existe e pode ser encontrada nas [[Regras Avançadas]].
 
-## Conflitos Avançados
+---
+## Dica: Críticos em Combate
+
+Para acelerar o jogo, se um jogador obtiver um crítico para seu personagem em combate contra um inimigo mortal sem nome, o humano é incapacitado sem necessidade de calcular o dano. 
+
+Um **messy critical** geralmente é letal nesse caso.
+
+---
+# Conflitos Sociais
+
+
+
+
+
+
+---
+# Conflitos Avançados
+
+TODO: Entrar em conflitos avançados, falar um pouco sobre alguns conceitos no primer
+
+TODO2: Rever essa merda de Três Turnos e Fora
 
 Conflitos podem fi
 
+
+# Dicas para Narrador 
 
 ## Três Turnos e Fora
 Recomendamos fortemente encerrar conflitos após **aproximadamente três turnos**, a menos que todos ainda estejam se divertindo. Muitas rolagens de dados podem desacelerar o drama e dificultar descrições criativas.
@@ -197,7 +225,6 @@ Recomendamos fortemente encerrar conflitos após **aproximadamente três turnos*
 Se Narrador e jogadores preferirem o estilo clássico de lutar até o último ponto de **Saúde**, podem fazê-lo, mas para os outros, aqui estão algumas maneiras de decidir o vencedor após três turnos, caso ambos os lados ainda estejam de pé:
 
 ---
-
 #### 1. Permitir que os jogadores recuem
 
 Os jogadores podem decidir interromper o conflito e fugir ou encerrar a discussão.

@@ -47,7 +47,7 @@ A Camarilla opera como uma sociedade hierárquica altamente centralizada. Alguns
 As Tradições da Camarilla, ou "Seis Mandamentos", são as leis que estruturam a sociedade vampírica, preservando a ordem e garantindo a sobrevivência dos Kindred. Elas foram criadas como uma resposta aos perigos de exposição e anarquia, sendo aplicadas rigidamente pelos líderes da seita. Abaixo, explicamos cada uma das tradições com base nas diretrizes do livro *Vampiro: A Máscara* (V5):
 
 ---
-## 1ª Tradição: **A Máscara** (*The Masquerade*)
+## 1ª Tradição: A Máscara *(The Masquerade)*
 > *“Não revelarás tua verdadeira natureza aos que não são do Sangue. Ao fazê-lo, renunciarás às tuas reivindicações ao Sangue.”*
 
 A Máscara é a tradição mais respeitada, mas também a mais quebrada. Vampiros devem ocultar sua existência dos mortais. Quebras da Máscara podem ocorrer em casos como:

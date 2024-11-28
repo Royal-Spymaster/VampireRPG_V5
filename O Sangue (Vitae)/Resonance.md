@@ -6,13 +6,15 @@ O tipo sanguínio é expresso como Resonance. A não ser que esteja buscando sob
 
 ## Sumário
 
-- [Sobre Resonance (Lore)](#sobre-resonance-lore)
-  - [Resonance e Alquimia](#resonance-e-alquimia)
-  - [Os Quatro Humores](#os-quatro-humores)
-    - [Uma Visão Moderna](#uma-visão-moderna)
-  - [Por que isso é importante?](#por-que-isso-é-importante)
-- [Resonance: Aplicação e Regras In-Game](#resonance-aplicação-e-regras-in-game)
-  - [Disciplinas e Resonance](#disciplinas-e-resonance)
+- [[#Sobre Resonance (Lore)|Sobre Resonance (Lore)]]
+    - [[#Resonance e Alquimia|Resonance e Alquimia]]
+    - [[#Os Quatro Humores|Os Quatro Humores]]
+        - [[#Uma Visão Moderna|Uma Visão Moderna]]
+    - [[#Por que isso é importante?|Por que isso é importante?]]
+- [[#Resonance: Aplicação e Regras In-Game|Resonance: Aplicação e Regras In-Game]]
+    - [[#Disciplinas e Resonance|Disciplinas e Resonance]]
+
+---
 
 # Sobre Resonance (Lore)
 

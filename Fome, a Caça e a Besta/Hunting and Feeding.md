@@ -38,13 +38,13 @@ Há duas maneiras de representar a caça in-game:
 A maneira mais simplória e rápida para determinar o resultado de uma caça é através de um hunting roll (teste de caça), que consiste em um roll (teste) da pool do seu [[Predator Type]], ou seja, da sua *[[#Predator Pools|predator pool]]* ou de um *approach plausível.* 
 
 *Approach plausível:*
->"A Gangrel might suggest a harrowing chase
-> across the park (Stamina + Athletics), while a Nosferatu
-> prefers to wait like a trap-door spider in the
-> refuse of a dark alley to feed on the inevitable passing
-> druggie or drunk (Resolve + Stealth). However the roll
-> is determined, the player makes a simple test against
-> the Difficulty of their chosen hunting ground" - pg. 306
+>*"A Gangrel might suggest a harrowing chase*
+> *across the park (Stamina + Athletics), while a Nosferatu*
+> *prefers to wait like a trap-door spider in the*
+> *refuse of a dark alley to feed on the inevitable passing*
+> *druggie or drunk (Resolve + Stealth). However the roll*
+> *is determined, the player makes a simple test against*
+> *the Difficulty of their chosen hunting ground" - pág. 306*
 
 ---
 # Feeding (Hunting and Humors) 
@@ -65,7 +65,7 @@ Para determinar o temperamento de uma vítima, role um d10. Caso tire 6 ou +, si
 ![[Pasted image 20241121175724.png]]
 
 - Caso o temperamento seja *Fleeting*, será possível [[Dyscrasias#Intensificando Resonance|manipular o temperamento]] até chegar a um temperamento *Intense*, o que fornece um *[[Resonance#Disciplinas e Resonance|bônus no uso de alguns poderes vampíricos]]*.
-- 
+
 - Caso seja *Intense*, o mesmo vale para chegar a *Acute.* E em temperamentos agudos, a vítima estará sujeita a um longo processo de [[Dyscrasias#**Criando Dyscrasias**|criação de uma Dyscrasia]], que resulta em ***ganhos maiores e mais poderosos***. 
 
 >**⚠️ Nota Importante**: Personagens podem mudar o [[Resonance]] da vítima através de roleplay ou através dos vários social systems do jogo (testes, disciplinas sociais, etc), e o ST (*Storyteller*) pode alterar conforme achar necessário e coerente.
@@ -86,27 +86,26 @@ Para determinar o temperamento de uma vítima, role um d10. Caso tire 6 ou +, si
 
 Muitos vampiros tentam variar seus métodos de alimentação conforme as oportunidades surgem, mas seus instintos os levam a padrões padrão específicos. A combinação de Atributos e Habilidades (Skills) que um vampiro usa para caçar depende de sua abordagem, que geralmente segue seu [[Predator Type]].
 
-**⚠️ Nota Importante** : Os jogadores, em um momento de improvisação, podem sugerir variações em qualquer um desses métodos de caça. O Narrador pode seguir com a ideia ou introduzir complicações causadas por um predador que tenta pensar em vez de caçar instintivamente. [[Disciplinas]] e [[Advantages#Merits|Méritos]] **também podem influenciar a combinação de dados, indo além das opções apresentadas abaixo**.
+**⚠️ Nota Importante**: Os jogadores, em um momento de improvisação, podem sugerir variações em qualquer um desses métodos de caça. O Narrador pode seguir com a ideia ou introduzir complicações causadas por um predador que tenta pensar em vez de caçar instintivamente. [[Disciplinas]] e [[Advantages#Merits|Méritos]] **também podem influenciar a combinação de dados, indo além das opções apresentadas abaixo**.
 
-
-| Predator Type                                            |                     Dice Pool (Teste)                     | Descrição                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------------------- | :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <br><br>[[Predator Type#Alleycat\|Alleycat]]             |     Strength + Brawl <br>ou<br>Wits + Streetwise<br>      | Você toma sangue pela força ou ameaça, perseguindo, dominando e drenando suas vítimas. Se você se alimenta de criminosos como uma espécie de "cavaleiro sombrio das ruas", use Wits + Streetwise para encontrar uma vítima                                                                     |
-| <br>[[Predator Type#Bagger\|Bagger]]                     |               Intelligence <br>+ Streetwise               | Você adquire sangue preservado em vez de caçar, ou se alimenta dos mortos ou moribundos. Encontre sua "presa", obtenha acesso e compre ou de outra forma convença alguém que possua o recurso a lhe dar acesso                                                                                 |
-| <br>[[Predator Type#Cleaver\|Cleaver]]                   |             Manipulation <br>+<br>Subtefurge              | Você toma sangue secretamente de sua família mortal ou amigos. Socialize com suas vítimas, alimente-se delas e encubra o ato para prepará-las para a próxima vez.                                                                                                                              |
-| <br>[[Predator Type#Consensualist\|Consensualist]]       |             Manipulation <br>+<br>Persuation              | Você toma sangue com consentimento, sob o disfarce de trabalho médico ou um fetiche compartilhado. Cultive suas vítimas, alimente-se delas e valide a escolha que elas fizeram ao alimentá-lo.                                                                                                 |
-| [[Predator Type#Farmer\|Farmer]]                         |               Composure <br>+<br>Animal Ken               | Você se alimenta de animais. Encontre sua presa, capture o animal escolhido e alimente-se dele.                                                                                                                                                                                                |
-| <br>[[Predator Type#Headhunter/Blood Leech\|Headhunter]] |             NAO DEVE <br>SER UM SIMPLES TESTE             | Você se alimenta de outros vampiros; se cometer um erro, você morre – seja esta noite, ou em uma [[Camarilla#6ª Tradição **A Destruição** (*Destruction*)\|Caçada de Sangue (Blood Hunt)]]. O Narrador não deve simplificar algo assim para um simples conjunto de jogadas de dados.           |
-| <br>[[Predator Type#Osiris\|Osiris]]                     | Manipulation + Subterfuge<br>ou<br>Intimidation +<br>Fame | Você se alimenta de seus fãs, igreja ou outra multidão adoradora. A Skill pela qual você é famoso pode ser Performance, Science, Craft, Academics, Politics ou outra. Exiba-se, escolha uma vítima e a adulhe ou intimide para que alimente você.                                              |
-| [[Predator Type#Sandman\|Sandman]]                       |                Dexterity <br>+ <br>Stealth                | Você se alimenta de vítimas adormecidas. Observe um hotel ou casa, invada silenciosamente, alimente-se sem fazer barulho e saia.                                                                                                                                                               |
-| <br>[[Predator Type#Scene-Queen\|Scene-Queen]]           |           <br>Manipulation <br>+<br>Persuasion            | Você se alimenta de uma subcultura de alta ou baixa classe na qual você desfruta de alto status. <br>Faça parte do ambiente, prepare e isole uma vítima para se alimentar, e manipule ou silencie-a para manter o sigilo._"Eu deixo os outros nos verem juntos se você mantiver a discrição."_ |
-| <br>[[Predator Type#Siren\|Siren]]                       |                Charisma<br>+<br>Subterfuge                | Você se alimenta sob o disfarce de sexo. <br>Escolha sua vítima, encante-a e leve-a para algum lugar isolado para se alimentar.                                                                                                                                                                |
+| Predator Type                                            |                     Dice Pool (Teste)                     | Descrição                                                                                                                                                                                                                                                                                      |     |
+| -------------------------------------------------------- | :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| <br><br>[[Predator Type#Alleycat\|Alleycat]]             |     Strength + Brawl <br>ou<br>Wits + Streetwise<br>      | Você toma sangue pela força ou ameaça, perseguindo, dominando e drenando suas vítimas. Se você se alimenta de criminosos como uma espécie de "cavaleiro sombrio das ruas", use Wits + Streetwise para encontrar uma vítima                                                                     |     |
+| <br>[[Predator Type#Bagger\|Bagger]]                     |               Intelligence <br>+ Streetwise               | Você adquire sangue preservado em vez de caçar, ou se alimenta dos mortos ou moribundos. Encontre sua "presa", obtenha acesso e compre ou de outra forma convença alguém que possua o recurso a lhe dar acesso                                                                                 |     |
+| <br>[[Predator Type#Cleaver\|Cleaver]]                   |             Manipulation <br>+<br>Subtefurge              | Você toma sangue secretamente de sua família mortal ou amigos. Socialize com suas vítimas, alimente-se delas e encubra o ato para prepará-las para a próxima vez.                                                                                                                              |     |
+| <br>[[Predator Type#Consensualist\|Consensualist]]       |             Manipulation <br>+<br>Persuation              | Você toma sangue com consentimento, sob o disfarce de trabalho médico ou um fetiche compartilhado. Cultive suas vítimas, alimente-se delas e valide a escolha que elas fizeram ao alimentá-lo.                                                                                                 |     |
+| [[Predator Type#Farmer\|Farmer]]                         |               Composure <br>+<br>Animal Ken               | Você se alimenta de animais. Encontre sua presa, capture o animal escolhido e alimente-se dele.                                                                                                                                                                                                |     |
+| <br>[[Predator Type#Headhunter/Blood Leech\|Headhunter]] |             NAO DEVE <br>SER UM SIMPLES TESTE             | Você se alimenta de outros vampiros; se cometer um erro, você morre – seja esta noite, ou em uma [[Camarilla#6ª Tradição **A Destruição** (*Destruction*)\|Caçada de Sangue (Blood Hunt)]]. O Narrador não deve simplificar algo assim para um simples conjunto de jogadas de dados.           |     |
+| <br>[[Predator Type#Osiris\|Osiris]]                     | Manipulation + Subterfuge<br>ou<br>Intimidation +<br>Fame | Você se alimenta de seus fãs, igreja ou outra multidão adoradora. A Skill pela qual você é famoso pode ser Performance, Science, Craft, Academics, Politics ou outra. Exiba-se, escolha uma vítima e a adulhe ou intimide para que alimente você.                                              |     |
+| [[Predator Type#Sandman\|Sandman]]                       |                Dexterity <br>+ <br>Stealth                | Você se alimenta de vítimas adormecidas. Observe um hotel ou casa, invada silenciosamente, alimente-se sem fazer barulho e saia.                                                                                                                                                               |     |
+| <br>[[Predator Type#Scene-Queen\|Scene-Queen]]           |           <br>Manipulation <br>+<br>Persuasion            | Você se alimenta de uma subcultura de alta ou baixa classe na qual você desfruta de alto status. <br>Faça parte do ambiente, prepare e isole uma vítima para se alimentar, e manipule ou silencie-a para manter o sigilo._"Eu deixo os outros nos verem juntos se você mantiver a discrição."_ |     |
+| <br>[[Predator Type#Siren\|Siren]]                       |                Charisma<br>+<br>Subterfuge                | Você se alimenta sob o disfarce de sexo. <br>Escolha sua vítima, encante-a e leve-a para algum lugar isolado para se alimentar.                                                                                                                                                                |     |
 
 
 ---
 ## Hunting Grounds
 
-A ***Dificuldade*** de quaisquer  [[#Hunting Roll]] depende do número de vítimas possíveis na área, no nível de vigilância da área e na coesão social. 
+A ***Dificuldade*** de quaisquer [[#Hunting Roll]] depende do número de vítimas possíveis na área, no nível de vigilância da área e na coesão social. 
 **Mas a dificuldade mínima é sempre 1.**
 
 Um cortiço cheio, onde todos cuidam uns dos outros, e um conjunto habitacional disperso, onde as pessoas cuidam apenas de si mesmas, são territórios de caça aproximadamente iguais segundo esses critérios. Um aeroporto está cheio de viajantes que ninguém sentirá falta por horas ou dias, mas também está repleto de segurança e câmeras de vigilância.
@@ -123,7 +122,6 @@ Um território de caça específico pode ter modificadores específicos com base
 | Presença policial/segurança maior do que o normal                                     | +1 em Dificuldade |
 | Segurança pesada (e.x: *proteger um dignitário ou<br>líder com alerta de terrorismo*) | +2 em Dificuldade |
 | Festival, desfile, comício, tumulto ou outro grande<br>evento temporário              | -2 em Dificuldade |
-
 Dependendo da área e circunstância, vampiros talvez precisem caçar em grupo ou em duplas: um parceiro para ajudar na sedução, um suporte para lidar com presas maiores, ou um vigia para alertar um alimentador distraído. 
 
 >Se o plano parecer plausível, o Narrador pode permitir **trabalho em equipe** (*p. 122).*

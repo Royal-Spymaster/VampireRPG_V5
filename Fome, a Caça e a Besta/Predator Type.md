@@ -58,7 +58,7 @@ Você rouba, compra ou de outra forma adquire sangue frio, em vez de caçar, dep
 ---
 # Cleaver
 Você se alimenta secretamente de sua família mortal ou de amigos próximos com quem ainda mantém laços. Alguns _Cleavers_ mais extremos adotam crianças, casam-se com humanos e tentam levar uma vida familiar pelo maior tempo possível. 
-Adicione sua família ao [[Mapa de Relacionamentos]].
+Adicione sua família ao [[Images/Styles/Mapa de Relacionamentos]].
 
 _Cleavers_ frequentemente fazem grandes esforços para esconder a verdade de sua condição de suas famílias, mas alguns mantêm relacionamentos nada saudáveis com seus próprios parentes. 
 
@@ -182,7 +182,7 @@ Você rouba, compra ou de outra forma adquire sangue frio, em vez de caçar, dep
 ---
 # Cleaver
 Você se alimenta secretamente de sua família mortal ou de amigos próximos com quem ainda mantém laços. Alguns _Cleavers_ mais extremos adotam crianças, casam-se com humanos e tentam levar uma vida familiar pelo maior tempo possível. 
-Adicione sua família ao [[Mapa de Relacionamentos]].
+Adicione sua família ao [[Images/Styles/Mapa de Relacionamentos]].
 
 _Cleavers_ frequentemente fazem grandes esforços para esconder a verdade de sua condição de suas famílias, mas alguns mantêm relacionamentos nada saudáveis com seus próprios parentes. 
 

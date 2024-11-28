@@ -52,7 +52,7 @@ A **Segunda Inquisição** é um evento devastador para a sociedade Kindred, ini
 ## A Expulsão dos Anarquistas
 
 ### **O Contexto**
-- Durante o **Conclave de Praga (2008)**, a [[Camarilla]] culpou os [[Anarquistas]] pelo comprometimento da [[Camarilla#1ª Tradição **A Máscara** (*The Masquerade*)|Máscara]] com o uso de tecnologia imprudente. Os Anarquistas, por sua vez, acusaram a [[Camarilla]] de sacrificar [[Kindred#Gerações|neonatos]] para proteger [[Kindred#Gerações|anciões]].
+- Durante o **Conclave de Praga (2008)**, a [[Camarilla]] culpou os [[Anarquistas]] pelo comprometimento da [[Camarilla#1ª Tradição **A Máscara** (*The Masquerade*)|Máscara]] com o uso de tecnologia imprudente. Os Anarquistas, por sua vez, acusaram a [[Camarilla]] de sacrificar [[Gerações e Potência|neonatos]] para proteger [[Kindred#Gerações|anciões]].
 - O ponto crítico foi a execução de um [[Kindred#Gerações|ancião]] pela Arconte Brujah Theo Bell, marcando a separação definitiva entre as seitas.
 
 ### **Consequências**

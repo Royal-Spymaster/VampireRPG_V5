@@ -1,9 +1,37 @@
 #rules #important #dice 
 
+![[Pasted image 20241127023407.png]]
+
 # Introdução
 
 Os dados de *Vampiro: A Máscara V5* são d10. Como iremos utilizar o [Demiplane]([https://app.demiplane.com/nexus/vampire](https://app.demiplane.com/nexus/vampire "https://app.demiplane.com/nexus/vampire") como plataforma para controle das fichas e rolagem dos dados, irei fornecer aqui como os jogadores deverão fazer para compreender os resultados dos dados.
 
+### Sumário
+- [[#Dice Pool|Dice Pool]]
+    - [[#Composição da Dice Pool|Composição da Dice Pool]]
+    - [[#Especialidades na Dice Pool|Especialidades na Dice Pool]]
+        - [[#Encontrando Especialidades na Ficha|Encontrando Especialidades na Ficha]]
+    - [[#Trackers e Dice Pools|Trackers e Dice Pools]]
+        - [[#Tracker: Fome|Tracker: Fome]]
+- [[#Interpretando os Dados|Interpretando os Dados]]
+    - [[#Dados Regulares|Dados Regulares]]
+        - [[#Falha|Falha]]
+        - [[#Sucesso|Sucesso]]
+        - [[#Sucesso Crítico|Sucesso Crítico]]
+    - [[#Dados de Fome|Dados de Fome]]
+        - [[#Faces do Dado de Fome|Faces do Dado de Fome]]
+            - [[#Falha (Fome)|Falha (Fome)]]
+            - [[#Sucesso (Fome)|Sucesso (Fome)]]
+            - [[#Resultado Máximo (Fome)|Resultado Máximo (Fome)]]
+            - [[#Resultado Mínimo (Fome)|Resultado Mínimo (Fome)]]
+        - [[#Messy Critical|Messy Critical]]
+        - [[#Bestial Failure|Bestial Failure]]
+- [[#Tutorials|Tutorials]]
+    - [[#Tutorial: Rouse Check|Tutorial: Rouse Check]]
+        - [[#Explicando a Lógica|Explicando a Lógica]]
+    - [[#Tutorial: Como Rolar os Dados na Ficha|Tutorial: Como Rolar os Dados na Ficha]]
+
+--- 
 # Dice Pool
 
 A dice pool é basicamente a quantidade de dados que você irá utilizar ao rolar um teste.
@@ -64,8 +92,8 @@ Em *Vampiro: A Máscara*, há alguns status que são rastreados, os "trackers."
 
 - [[Character#Health|Vida]]
 - [[Character#Willpower|Willpower]]
-- [[Fome]]*: não é bem um tracker, e é mais complexo do que isso. Acesse o documento desse stat.
-- [[Humanidade]]*: não é bem um tracker, e é mais complexo do que isso. Acesse o documento desse stat.
+- [[Fome]]*: não é bem um tracker, e é mais complexo do que isso. Veja mais em [[Fome]].
+- [[Humanidade]]*: não é bem um tracker, e é mais complexo do que isso. Veja mais em [[Humanidade]].
 
 As pools de rastreadores (trackers) sobem e descem conforme os personagens gastam ou sofrem [[Dano|dano]] relacionado a elas. 
 
@@ -136,6 +164,9 @@ Porém, 10's funcionam de maneiras diferentes dependendo da quantidade deles.
 >![[Pasted image 20241124071410.png]]
 
 **Caso** um teste que contenha ao menos um **sucesso crítico** (par de 10) **atinja a [[Dificuldade e Conflitos#Dificuldade|Dificuldade]] necessária**, o Narrador pode descrever como você performa essa ***tarefa de uma maneira mais rápida, de maneira mais estilosa ou completa que o normal.***
+
+>**💡Para Saber Mais:** Muitos exemplos podem ser encontrados em [[Exemplos de Testes]].
+
 
 ## Dados de Fome
 
@@ -214,6 +245,29 @@ Uma **Falha Bestial** ocorre quando uma rolagem falha (ou seja, não alcança o 
 
 
 ---
+## Tutorial: Rouse Check
+
+>***É essencial você entender primeiramente o que é um [[Fome#Rouse Check|Rouse Check]].*** 
+
+Se você entende isso e outros aspectos de [[Fome]], veja abaixo como realizar um Rouse Check através da ficha.
+
+- Vá até o canto superior direito da sua ficha e clique aqui:
+
+![[Pasted image 20241126204203.png]]
+
+#### Explicando a Lógica:
+1. Role **um único dado de dez lados (d10)**:
+    - Resultado **6 ou mais**: Sucesso. A Fome permanece inalterada.
+    - Resultado **5 ou menos**: Falha. O vampiro ganha **+1 de Fome**.
+
+2. O efeito desejado acontece **independentemente do sucesso ou falha**.
+    - Exemplo: Mesmo falhando ao ativar o _Blush of Life_, ele funciona, mas a Fome aumenta.
+
+*Exemplo:*
+>Erica decide usar o _[[Kindred#Blush of Life|Blush of Life]]_:
+>- Ela realiza um **Rouse Check** e rola um **4** (falha).
+>- Seu Sangue simula vitalidade humana por toda a noite, mas sua [[Fome]] aumenta para o próximo nível.
+
 
 ## Tutorial: Como Rolar os Dados na Ficha
 
@@ -226,6 +280,3 @@ Após a criação do personagem através do [Demiplane]([https://app.demiplane.c
 - **Manualmente**: clique no ícone inferior esquerdo. Irá abrir uma janela, onde você pode incluir na sua rolagem dados normais e dados de fome.
 
 ![[Pasted image 20241123021026.png]]
-
----
-## Como Rolar Rouse Checks:

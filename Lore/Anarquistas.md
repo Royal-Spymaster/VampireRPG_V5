@@ -47,7 +47,7 @@ O Movimento Anarquista varia de cidade para cidade:
 
 O Movimento é alimentado por uma combinação de ressentimentos históricos e novas oportunidades:
 
-- **Traições da Camarilla:** A aliança dos anciões com a Segunda Inquisição e sua disposição em sacrificar [[Kindred#Gerações||neonatos]] para proteger seu poder motivaram uma nova onda de revolta.
+- **Traições da Camarilla:** A aliança dos anciões com a Segunda Inquisição e sua disposição em sacrificar [[Gerações e Potência||neonatos]] para proteger seu poder motivaram uma nova onda de revolta.
 - **Sede de Vitória:** O colapso de domínios tradicionais, como Berlim, inspira os Anarchs a acreditar que os [[Camarilla#Estrutura e Organização|Príncipes]] podem ser derrubados em qualquer lugar.
 - **Liberdade e Justiça:** Muitos Anarchs rejeitam o controle autoritário, que frequentemente restringe sua alimentação, destrói suas famílias mortais e impõe punições arbitrárias.
 

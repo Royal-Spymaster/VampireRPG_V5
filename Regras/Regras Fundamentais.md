@@ -78,13 +78,14 @@ Logo, a duração do turno é **abstrata** e se adapta à narrativa:
 - Em **cenas sociais**, eles podem ser mais longos, abrangendo minutos ou até períodos maiores, dependendo do contexto.
 
 #### Minor Actions
+> 🧩**Dica Para o Narrador**: Isto é um conceito importante, pois ajuda a delimitar o Turno.
 
-Em algumas instâncias (sobretudo em [[Dificuldade e Conflitos#Conflitos|Conflitos]] mais complexos), a presença de ações menores podem afetar algumas mecânicas.
+Em algumas instâncias (sobretudo em [[Dificuldade e Conflitos#Conflitos|Conflitos]] ms), a presença de ações menores podem afetar as mecânicas e os testes.
 
 Ações menores são as que não justificam "esgotar" o turno completo, nem rolar nenhum dado; mas também não são simples o suficiente para serem realizadas gratuitamente.
 
 >Saber da existência de regras que cobrem isto é fundamental, e podem auxiliar o Narrador a prover uma experiência mais rica e balanceada para os jogadores, sobretudo quando falamos de [[Dificuldade e Conflitos#Conflitos|Conflitos]]. 
->**Explicamos isso em [[Regras Avançadas]].**
+>**Explicamos isso em [[Regras Avançadas#Minor Actions|Regras Avançadas: Minor Actions]].**
 
 ---
 
@@ -147,11 +148,13 @@ Entrementes, mesmo uma **atividade normal** pode exigir uma **rolagem de dados**
 Os testes simples funcionam assim:
 
 1. Descreva o que seu personagem está tentando alcançar e como.
-2. O Narrador dirá quais [[Character#Traits|Traits]] do seu personagem serão usados para montar uma dice pool.
+2. O Narrador dirá quais [[Character#Traits|Traits]] do seu personagem serão usados para montar uma [[Entendendo Dados e Ficha#Dice Pool|dice pool]].
 3. O Narrador define uma **[[Dificuldade e Conflitos]]**. Esse número pode ser mantido em segredo, dependendo das circunstâncias e do estilo de jogo e representa o número de sucessos que você terá de atingir.
 
 >A menos que o teste seja um [[#Sucessos Automáticos|sucessos automático]], você rola os dados da dice pool e conta os sucessos. 
 >***Se o número de sucessos que você obtiver for igual ou superior à* Dificuldade**, você vence o teste e realiza a ação.
+
+>**💡Para Saber Mais:** Muitos exemplos podem ser encontrados em [[Exemplos de Testes]].
 
 ## Resultados Possíveis 
 
@@ -235,7 +238,7 @@ Se dois ou mais personagens puderem colaborar efetivamente em uma tarefa, como i
 
 ### Sucessos Automáticos (Before Roll)
 
-**Se a pool de dados de um personagem for duas vezes a [[Dificuldade e Conflitos]] da tarefa, o Narrador pode optar por declarar um sucesso automático, sem necessidade de rolar os dados**. 
+**Se a pool de dados de um personagem for duas vezes a [[Dificuldade e Conflitos#Dificuldade|Dificuldade]] da tarefa, o Narrador pode optar por declarar um sucesso automático, sem necessidade de rolar os dados**. 
 
 Sucessos automáticos agilizam o jogo e reduzem interrupções desnecessárias nas regras. 
 Use-os com frequência, especialmente fora de combate ou para testes em que a falha seria entediante, como reunir informações, iniciar conversas ou criar oportunidades que impulsionem a cena ou avancem a narrativa.
