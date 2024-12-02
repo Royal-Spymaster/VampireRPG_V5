@@ -40,7 +40,38 @@ O poder bruto do Sangue alimenta todos os poderes de **Disciplinas**, exceto os 
 
 ## Fortitude
 
+
+---
 ## Obsfucate
+
+**Nicknames**: Stealth Mode, Cloaking, Veiling, Occulto
+
+Os poderes de **Obsfucate (Ofuscação)** funcionam através de um mesmerismo ambiente e de baixo nível. 
+Os observadores veem o vampiro, mas suas mentes escolhem ignorá-lo. Testemunhas inconscientemente saem do caminho se o usuário bloquear sua passagem e racionalizam seu comportamento se pressionadas. A **Ofuscação** afeta todos os cinco sentidos, salvo indicação em contrário.
+
+>- **Limite:** A Disciplina, no entanto, possui limites: a ilusão falha se o observador não puder ignorar o usuário ou se o usuário encurralar o observador.
+>  
+>	Exemplos:
+>	- Um vampiro bloqueando uma porta não pode manter a **Ofuscação** contra alguém tentando atravessá-la. 
+>	- Da mesma forma, ações violentas comprometem a fachada, assim como ações como levantar a voz, falhas ao tentar furtar algo e erguer armas para atacar.
+>
+>- **Câmeras Automáticas:** 
+>  ***Geralmente***, a disciplina *Ofuscação* não oferece proteção contra vigilância por máquinas. Um humano tentando localizar o vampiro pode ter dificuldade em apontar a lente na direção certa, mas câmeras automáticas e outros tipos de detectores podem capturá-lo.
+>  
+>- ***Ofuscação vs Auspex:*** 
+>  Um vampiro com o poder Sense the Unseen (*Auspex 1*) pode detectar personagens Ofuscados ao realizar um teste  **(Wits ou Resolve) + Auspex** contra (**Wits + Obfuscate**). 
+>  
+>
+>
+
+- Entretando, sussurrar sem quebrar a *Obsfucate* ainda é possível.
+
+Mas tenha cuidas cuidado. Um vampiro com o poder Sense the Unseen (_Auspex_ 1) pode detectar personagens Ofuscados ao realizar um teste de **(Wits ou Resolve) + Auspex** contra (**Wits + Obfuscate**). 
+
+Qualquer pessoa pode detectar um vampiro Ofuscado que chame atenção para si; tais observadores percebem essas revelações acidentais com um teste de **Wits + Awareness** (ou **Resolve + Awareness** para um pesquisador ativo) contra **Wits + Stealth**. 
+
+Isso também se aplica a ataques surpresa vindos de Ofuscação – a vítima sempre tem uma chance de perceber o perigo um momento antes do golpe.
+
 
 ## Protean
 

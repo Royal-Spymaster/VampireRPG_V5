@@ -93,18 +93,22 @@ Com o passar das décadas e séculos, os vampiros matam repetidamente ou, ao se 
 
 # Estimulando o Sangue (Rouse Check)
 
-A cada anoitecer quando o vampiro desperta (leia [[#Acordando]]), quando utiliza poderes vampíricos ou manipula seu Sangue, ele arrisca intensificar sua [[Fome]] através de um **Rouse Check**. Este é o preço da imortalidade e do poder sobrenatural.
+Seja a cada anoitecer quando o vampiro desperta ([[#Acordando]]), quando utiliza poderes vampíricos ou manipula seu Sangue, ele arrisca intensificar sua [[Fome]] através de um **Rouse Check**. 
+
+Este é o preço da imortalidade e do poder sobrenatural.
 
 #### Quando Realizar um Rouse Check:
 >1. **Despertar ao anoitecer**: Cada vez que um vampiro desperta de seu sono diurno.
->2. **Ativar poderes vampíricos**: A maioria das disciplinas exige pelo menos um Rouse Check.
+>2. **Poderes vampíricos**: Alguns poderes das [[Disciplinas]] exigem um ou mais Rouse Check's. Leia o poder que você está usando.
 >3. **Estimular os Atributos**: Usar o Sangue para melhorar capacidades físicas com um [[#Blood Surge (Ímpeto do Sangue)|Ímpeto de Sangue]].
 >4. **Blush of Life**: Fingir uma aparência de vitalidade humana utilizando [[#Blush of Life]].
 >5. **Curar Ferimentos**: Reparar o corpo danificado através de [[#Recuperação Vampírica]].
 
->É essencial saber [[Entendendo Dados e Ficha#Tutorial Rouse Check|como fazer um Rouse Check na ficha]].
+>📘**Tutorial:** Veja [[Entendendo Dados e Ficha#Tutorial Rouse Check|como fazer um Rouse Check na ficha]].
 
->**Nota Importante**: O efeito ocorre independente mesmo se falhar no Rouse Check. O Rouse Check determina aumento de [[Fome]], não de sucesso no que está tentando realizar.
+>⚠️**ATENÇÃO**: 
+>- O efeito que você está tentando realizar ocorre independente de você falhar ou não Rouse Check. 
+>- O Rouse Check determina aumento de [[Fome]], não de sucesso no que está tentando realizar.
 
 #### Fome 5 e Rouse Check
 Se o vampiro já estiver no nível **Fome 5**, ele não pode intencionalmente realizar um Rouse Check. 
@@ -120,16 +124,18 @@ Para realizar um ataque de mordida:
    
 2. **Penalidade no Teste**: Remova **dois dados** da *[[Entendendo Dados e Ficha#Dice Pool|dice pool]]* ao realizar o [[Regras Fundamentais#Entendo os Testes (Rolls)|teste]], já que ataques de mordida são mais fáceis de defender.
 
-#### Dano
+>📘 **Dica**: Para realizar uma mordida contra inimigos imobilizados, a penalidade no teste não se aplica. Confira como funciona as regras de [[Regras Avançadas#Grappling|Grappling]], para um melhor entendimento.
 
-> Busque entender como funciona [[Dano]], [[Dificuldade e Conflitos#Margem|Margem]] e [[Dificuldade e Conflitos#Conflitos|Conflitos]] para uma melhor compreensão desta parte.
+#### Dano do Bite Attack
 
-- **Dano Fixo**: Diferente de outros ataques, não importa número de sucessos ([[Dificuldade e Conflitos#Margem|Margem]]) que você obtém caso seja bem-sucedido; as presas causam **dois pontos de dano** ao vencer o teste de ***Brawl***.
+> 💡Busque entender como funciona [[Dano]], [[Dificuldade, Contests e Conflitos#Margem|Margem]] e [[Dificuldade, Contests e Conflitos#Conflitos|Conflitos]] para uma melhor compreensão desta parte.
+
+- **Dano Fixo**: Diferente de outros ataques, não importa número de sucessos ([[Dificuldade, Contests e Conflitos#Margem|Margem]]) que você obtém caso seja bem-sucedido; as presas causam **dois pontos de dano** ao vencer o teste de ***Brawl***.
 - **Nível do Dano:** O dano das presas é [[Dano#Aggravated Damage|Dano Agravado]] na Saúde, tanto para mortais quanto para vampiros.
 
 #### Alimentação Após Mordida
 
-> Veja sobre [[Fome#Reduzindo a Fome|Reduzindo a Fome]] para uma melhor compreensão.
+> 💡Veja sobre [[Fome#Reduzindo a Fome|Reduzindo a Fome]] para uma melhor compreensão.
 
 - **Turnos Seguintes**: Após um ataque de mordida bem-sucedido, o vampiro pode **se alimentar** do alvo nos [[Regras Fundamentais#Turno|turnos seguintes]] sem sofrer penalidade no teste de ***Brawl***, pois é difícil desestabilizar uma mordida bem-sucedida.
   
@@ -211,7 +217,7 @@ Qualquer vampiro pode convocar os poderes do Sangue para temporariamente ***aume
 - **Narrador pode proibir**: O Narrador tem o direito de restringir o uso dependendo do contexto da narrativa.
 
 - **Exclusões de outras mecânicas**:
-    - Não é possível combinar Blood Surge com [[Regras Fundamentais#Sucessos Automáticos (Before Roll)|sucessos automáticos]] ou a regra de [[Dificuldade e Conflitos#Pegar Metade|"Pegar Metade"]].
+    - Não é possível combinar Blood Surge com [[Regras Fundamentais#Sucessos Automáticos (Before Roll)|sucessos automáticos]] ou a regra de [[Dificuldade, Contests e Conflitos#Pegar Metade|"Pegar Metade"]].
 
 ---
 ## Recuperação Vampírica
@@ -263,7 +269,7 @@ Apesar de todos os dons concedidos por sua condição, o Sangue impõe um preço
 1. **Despertando ao Anoitecer (*Normal*)**: Toda noite, ao despertar de seu sono diurno, um vampiro deve realizar um [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]]. 
 	- Caso uma falha neste [[Entendendo Dados e Ficha#Tutorial Rouse Check|Rouse Check]] aumente a [[Fome]] para além do nível 5, ele entra em [[Perigos do Sangue#Torpor|torpor]], em vez de testar para [[Frenzy#Frenesi de Fome|Frenesi de Fome]].
 
-2. **Despertando ao Amanhecer (*Anormal*):** Durante o dia, o Sangue vampírico torna-se inerte, quase gélido. Despertar durante o dia exige um teste de [[Humanidade]], com uma [[Dificuldade e Conflitos#Dificuldade|Dificuldade]] que varia conforme o nível da crise:
+2. **Despertando ao Amanhecer (*Anormal*):** Durante o dia, o Sangue vampírico torna-se inerte, quase gélido. Despertar durante o dia exige um teste de [[Humanidade]], com uma [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] que varia conforme o nível da crise:
 	- **Dificuldade 3**: Situação de ameaça à vida, como um incêndio.
 	- **Dificuldade 4**: Mensagem ou decisão urgente.
 	- **Dificuldade 5 ou superior**: Inconveniências a serem resolvidas.
@@ -271,10 +277,10 @@ Apesar de todos os dons concedidos por sua condição, o Sangue impõe um preço
 #### Despertar no Amanhecer
 Após despertar do sono diurno, o vampiro pode agir por **uma única [[Regras Fundamentais#Scene|cena]]**. 
 
-- Ao final desse período, para permanecer acordado, deve realizar outro teste de [[Humanidade]] com [[Dificuldade e Conflitos#Dificuldade|Dificuldade 3]]. 
+- Ao final dessa [[Regras Fundamentais#Scene|cena]]**, para permanecer acordado, deve realizar outro teste de [[Entendendo Dados e Ficha#Trackers e Dice Pools|Teste de Humanidade]] com [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade 3]]. 
 - Um sucesso permite mais uma [[Regras Fundamentais#Scene|cena]], enquanto um [[Entendendo Dados e Ficha#Sucesso Críticos|sucesso crítico]] permite que permaneça acordado pelo tempo necessário.
 
-> **Nota Importante**: Durante as horas do dia, o maior [[Entendendo Dados e Ficha#Dice Pool|dice pool]] que um vampiro pode usar é igual ao seu **nível de [[Humanidade]]**.
+> ⚠️ **Nota Importante**: Durante as horas do dia, o ***maior [[Entendendo Dados e Ficha#Dice Pool|dice pool]] para qualquer ação*** que um vampiro pode ter é igual ao seu **nível de [[Humanidade]]**.
 
 ---
 ## Frenesi

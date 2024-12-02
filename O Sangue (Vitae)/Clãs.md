@@ -85,6 +85,16 @@ Você e o **Narrador** devem decidir, durante a criação do personagem, o tipo 
 >*"Hector decide que seu personagem, um Malkaviano chamado Gizzard, às vezes experimenta **sensações físicas como se fossem vozes**, em vez de senti-las diretamente. 
 >Quando essa aflição se manifesta, ele sofre uma penalidade de **-1** (sua **Bane Severity** é 1) em todos os dice pools **Físicos**, pois as vozes tornam-se extremamente distrativas. Naturalmente, isso também é interpretado no roleplay."*
 
+#### Dica:
+
+A maldição dos Malkavianos é uma desordem sobrenatural. 
+Eles não estão fora de controle 24 horas por dia, acreditando em tudo o que veem ou ouvem, nem sucumbem completamente a algum tipo de "loucura" como pessoas reais que podem entrar em estados extremos de psicose devido à falta de tratamento (e mesmo assim, muitas dessas pessoas "voltariam" aos seus sentidos). 
+
+Evite ver os Malkavianos dessa forma. A loucura deles é algo que não vai tomar controle sobre eles para sempre (acho que nem mesmo em um estado de Wight isso aconteceria), eles sucumbem a ela mais ou menos dependendo de como lidam com a Bestialidade dentro deles, mas ainda assim estão "sob controle" na maior parte do tempo. 
+
+A linha, nesse caso, é bem colocada pelo livro, e a loucura só se manifesta quando a besta toma controle de você, e não o tempo todo.
+
+
 ---
 ### Maldição dos Nosferatu
 

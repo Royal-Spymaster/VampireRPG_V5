@@ -4,118 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3a71fa50205517ed",
+        "id": "3abbeb6cf26ff915",
         "type": "tabs",
         "children": [
           {
-            "id": "979e69c7b9e6b91a",
+            "id": "2c04c6122d10ae53",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regras/Dificuldade e Conflitos.md",
+                "file": "Humanidade.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Dificuldade e Conflitos"
+              "title": "Humanidade"
             }
           },
           {
-            "id": "57d45b8e45abb86e",
+            "id": "3e3c8eb94691848b",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Dano.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Dano"
-            }
-          },
-          {
-            "id": "14a0470801458939",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regras/Regras Avançadas.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Regras Avançadas"
-            }
-          },
-          {
-            "id": "4c5825813c71a025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fome, a Caça e a Besta/Fome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fome"
-            }
-          },
-          {
-            "id": "e0dff3039f80f846",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fome, a Caça e a Besta/Frenzy.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Frenzy"
-            }
-          },
-          {
-            "id": "f971853b3d5d3f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fome, a Caça e a Besta/Fome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fome"
-            }
-          },
-          {
-            "id": "925c32b81df5f4ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Sangue (Vitae)/Clãs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clãs"
-            }
-          },
-          {
-            "id": "e6cfe1e41f23d08c",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -123,42 +34,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Kindred"
             }
           },
           {
-            "id": "688946ddb50beb7e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Sangue (Vitae)/Perigos do Sangue.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Perigos do Sangue"
-            }
-          },
-          {
-            "id": "f39132d28591bebe",
+            "id": "09e4aee05f7026fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Sangue (Vitae)/Clãs.md",
+                "file": "Advantages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clãs"
+              "title": "Advantages"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.509765625
+    "width": 279.509765625
   },
   "right": {
     "id": "4c4593135122a3ba",
@@ -317,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,55 +230,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ad44efcd958df5",
+  "active": "09e4aee05f7026fd",
   "lastOpenFiles": [
-    "O Sangue (Vitae)/Resonance.md",
-    "Untitled.canvas",
-    "Fome, a Caça e a Besta/Predator Type.md",
-    "Character.md",
+    "Dante (Player)/Frases e Frases.md",
+    "Dicas.md",
     "Humanidade.md",
+    "Character.md",
     "Advantages.md",
-    "Regras/Dano.md",
-    "Regras/Dificuldade e Conflitos.md",
     "Regras/Entendendo Dados e Ficha.md",
     "Regras/Exemplos de Testes.md",
-    "Regras/Regras Avançadas.md",
     "Regras/Regras Fundamentais.md",
-    "Kindred.md",
-    "Regras",
-    "O Sangue (Vitae)/Perigos do Sangue.md",
-    "Fome, a Caça e a Besta/Hunting and Feeding.md",
-    "Fome, a Caça e a Besta/Fome.md",
-    "Fome, a Caça e a Besta/Frenzy.md",
+    "Regras/Regras Avançadas.md",
+    "Lore/Segunda Inquisição.md",
+    "Lore/Sabbat.md",
+    "Regras/Dificuldade, Contests e Conflitos.md",
     "O Sangue (Vitae)/Disciplinas.md",
-    "Fome, a Caça e a Besta",
-    "O Sangue (Vitae)/Diablerie, Blood Bond, Ghouls.md",
+    "Kindred.md",
+    "Regras/Dano.md",
+    "Dante (Player)/Rascunhos_BOPE.md",
+    "Dante (Player)/Dicas - Jogando como Dante.md",
+    "Dante (Player)/Dante Moretti.md",
+    "Dante (Player)/Sessions/Session_0.md",
     "O Sangue (Vitae)/Clãs.md",
-    "O Sangue (Vitae)",
-    "Images/Info/Pasted image 20241128015428.png",
-    "Images/Styles/Pasted image 20241128005612.png",
-    "O Sangue (Vitae)/Gerações e Potência.md",
-    "O Sangue (Vitae)/Dyscrasias.md",
-    "Untitled 1.canvas",
-    "Lore/Jyhad.md",
-    "Lore/Abraço.md",
-    "Lore/Anarquistas.md",
     "Lore/Camarilla.md",
-    "Images/Styles/Pasted image 20241127221511.png",
-    "Images/Styles/Pasted image 20241127204855.png",
-    "Pasted image 20241127204658.png",
-    "Pasted image 20241127204826.png",
-    "Images/Info/Pasted image 20241127193824.png",
-    "Images/Info/Pasted image 20241127184600.png",
-    "Images/Info/Pasted image 20241127175858.png",
-    "Images/Info/Pasted image 20241127180114.png",
+    "Dante (Player)/Images/Concept_Arts/Pasted image 20241130003351.png",
+    "Dante (Player)/Images/Concept_Arts/DALL·E 2024-11-26 20.28.02 .webp",
+    "Dante (Player)/Images/Concept_Arts/Pasted image 20241126063200.png",
+    "Dante (Player)/Images/Concept_Arts/Pasted image 20241126063846.png",
+    "Dante (Player)/Convicção (Delírio).md",
+    "Dante (Player)/Abraço de Dante.md",
+    "Images/Styles/Pasted image 20241130051016.png",
+    "Images/Info/Pasted image 20241130045721.png",
+    "Pasted image 20241130045719.png",
+    "Dante (Player)/Sessions/NPCs/Hannah_Soares.md",
+    "Dante (Player)/Images/Style/Pasted image 20241126061556.png",
+    "Dante (Player)/Images/Style/Pasted image 20241126064048.png",
+    "Dante (Player)/Images/Mapa_de_Relacionamento_Dante.png",
+    "Dante (Player)/Sessions/NPCs",
+    "Fome, a Caça e a Besta/Fome.md",
     "Untitled 2.canvas",
-    "DANTE(~1/Images/Style",
-    "DANTE(~1/Images/Concept_Arts",
-    "DANTE(~1/Images",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "O Sangue (Vitae)/Resonance.md",
+    "Dante (Player)/Sessions",
+    "Dante (Player)_Atualizado.zip",
     "Dante (Player).zip",
-    "Dante (Player)/Images/Concept_Arts",
-    "Dante (Player)/Images/Style",
-    "Dante (Player)/Images"
+    "Dante (Player) (2).zip~RF242b0d23.TMP",
+    "Dante (Player) (2).zip",
+    "Regras",
+    "Fome, a Caça e a Besta",
+    "O Sangue (Vitae)",
+    "DANTE(~1/Images/Style"
   ]
 }

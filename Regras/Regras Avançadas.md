@@ -1,3 +1,4 @@
+#combat #rules #dice 
 ![[Pasted image 20241123015626.png]]
 
 pág. 289
@@ -28,7 +29,7 @@ Dependendo da situação, uma manobra bem-sucedida deve resultar em um dos segui
     - **Exemplo**: Encontrar o alvo em um conflito em toda a cidade, organizar-se para estar a sós com o alvo em um conflito de sedução e intriga, ou posicionar-se para assumir o controle de uma empresa.
 
 ***Exemplo:***
->*"Enquanto Balzac busca vencer o [[Dificuldade e Conflitos#Contests|contest]] com Antoine fazendo o maior número possível de caçadas bem-sucedidas, o restante do séquito deseja tornar a não-vida de Antoine difícil. 
+>*"Enquanto Balzac busca vencer o [[Dificuldade, Contests e Conflitos#Contests|contest]] com Antoine fazendo o maior número possível de caçadas bem-sucedidas, o restante do séquito deseja tornar a não-vida de Antoine difícil. 
 >O Narrador decide que, para atacar Antoine, os jogadores devem primeiro encontrá-lo, realizando uma manobra de **Manipulation + Streetwise** contra o **Wits + Awareness** de Antoine."*
 
 ---
@@ -90,6 +91,7 @@ Um jogador que deseje realizar apenas ações menores em um turno pode fazê-lo,
 >"*Em um momento posterior, a parceira de confiança de Balzac, vinda do bairro estudantil, deseja juntar-se aos outros na caçada por Antoine. 
 >O  Narrador decide que, dado o intervalo de tempo, esse deslocamento rápido **custa dois dados** à jogadora, mas **não consome toda a ação dela*".
 
+
 ----
 ## Movimentando-se em Conflitos
 
@@ -106,7 +108,7 @@ Recomendamos fortemente que o Narrador e aqueles que desejarem entender as mecâ
 
 ## Iniciativa: Quem Vai Primeiro?
 
-As regras básicas de [[Dificuldade e Conflitos#Quem Vai Primeiro?|Quem Vai Primeiro]] devem satisfazer a maioria dos grupos, mas estas regras alternativas aqui oferecem uma abordagem mais tradicional para jogadores que preferem uma ordem clara de ações e iniciativa. Este sistema, no entanto, **torna o combate mais lento**.
+As regras básicas de [[Dificuldade, Contests e Conflitos#Quem Vai Primeiro?|Quem Vai Primeiro]] devem satisfazer a maioria dos grupos, mas estas regras alternativas aqui oferecem uma abordagem mais tradicional para jogadores que preferem uma ordem clara de ações e iniciativa. Este sistema, no entanto, **torna o combate mais lento**.
 
 #### Cálculo da Iniciativa
 Cada personagem possui um valor de **Iniciativa** fixa igual à soma de:
@@ -156,7 +158,7 @@ Em caso de empate:
 Conseguir surpreender um oponente geralmente requer um [[Regras Fundamentais#Realização Testes Simples|teste de habilidade]], como:
 
 - (***Dexterity*** + ***Stealth***) vs Melhor valor de (***Wits*** + ***Awareness***) do grupo oponente
-	Lembre-se que você pode [[Dificuldade e Conflitos#Pegar Metade|Pegar Metade]] para parties grandes de NPC's 
+	Lembre-se que você pode [[Dificuldade, Contests e Conflitos#Pegar Metade|Pegar Metade]] para parties grandes de NPC's 
 
 >Essa rolagem inclui ataques a partir de ocultação sobrenatural como [[Disciplinas#Obsfucate|Obsfucate]].
 
@@ -178,7 +180,7 @@ O sistema cobre **brigas corpo a corpo (unarmed)** e ataques com **armas de comb
 
 2. **Rolagem de Defesa:**
 	- O defensor pode rolar o mesmo que o atacante (dependendo do tipo de ataque).
-	- Alternativamente, o defensor pode usar _Dexterity + Athletics_ para esquivar-se ([[Dificuldade e Conflitos#Dodge|dodging]]).
+	- Alternativamente, o defensor pode usar _Dexterity + Athletics_ para esquivar-se ([[Dificuldade, Contests e Conflitos#Dodge|dodging]]).
 
 ##### Ataques Simultâneos
 
@@ -192,14 +194,14 @@ O sistema cobre **brigas corpo a corpo (unarmed)** e ataques com **armas de comb
 Um combatente pode tentar agarrar, segurar, derrubar ou de outra forma imobilizar um oponente ao realizar uma rolagem de (**_Strength** + **Brawl**_).
 Se obtiver mais sucessos que o oponente, ele não causa dano, mas, em vez disso ele consegue:
 
->- **Imobiliza o alvo**, impedindo-o de se mover ou engajar com outros oponentes.
->- O alvo ainda pode agir ***contra quem o está agarrando*** normalmente.
+>- **Imobilizar o alvo**, impedindo-o de se mover ou engajar/atacar outros oponentes.
+>	- Observação: Apesar de não conseguir contra outros oponentes, o alvo do agarrão ainda pode agir ***contra quem o está agarrando*** normalmente.
 
 No próximo turno, o combatente que iniciou o agarrão pode engajar o oponente em um conflito direto de (**_Strength** + **Brawl**_). 
 
 Se vencer, ele pode ***escolher entre as seguintes opções***:
 
->- **Causar dano ao oponente** com base na [[Dificuldade e Conflitos#Margem|margem]] de sucessos, como em um ataque normal.
+>- **Causar dano ao oponente** com base na [[Dificuldade, Contests e Conflitos#Margem|margem]] de sucessos, como em um ataque normal.
 >- **Morder o oponente** (se for um vampiro), causando dois pontos de **dano agravado** (veja [[Kindred#Bite Attacks|Bite Attacks]]).
 >	- *[[Kindred#Bite Attacks|Bite Attack]] contra inimigos agarrados não sofre penalidade no teste de ataque*.
 >- **Segurá-lo no lugar**, mantendo-o imobilizado.
@@ -244,17 +246,18 @@ O Narrador pode alterar este teste durante a batalha:
 Um personagem arremessando uma arma contra um alvo realiza um teste de **Dexterity + Athletics**.
 
 - Para alguns vampiros, isso pode incluir objetos que normalmente não são considerados armas, como pedaços de vigas de aço ou até carros.
+
 - Para caçadores, isso frequentemente envolve itens como coquetéis Molotov.
 
 ### Defendendo-se Contra Ataques à Distância
 
-- **Defendendo**: Defender-se de ataques à distância normalmente é feito com *(**Dexterity + Athletics**)*, representando a habilidade de manter-se em movimento e tornar-se um alvo difícil, utilizando qualquer [[Dificuldade e Conflitos#Cover|cobertura]].
+- **Defendendo**: Defender-se de ataques à distância normalmente é feito com *(**Dexterity + Athletics**)*, representando a habilidade de manter-se em movimento e tornar-se um alvo difícil, utilizando qualquer [[Dificuldade, Contests e Conflitos#Cover|cobertura]].
 
 >⚠️ **Nota Importante:** alvos estáticos (parados) não possuem defense pool, então fica como Dificuldade 1 para acertá-lo.
 
 - **Conflitos Opostos**: Uma troca de tiros acirrada entre dois atacantes também pode ser resolvida como um conflito oposto.
 
-- ***Cobertura (Sempre Considerar)***: Em ambos os casos, modifique os testes conforme o tipo e nível de c[[Dificuldade e Conflitos#Cover|cobertura disponível]] ao defensor.
+- ***Cobertura (Sempre Considerar)***: Em ambos os casos, modifique os testes conforme o tipo e nível de c[[Dificuldade, Contests e Conflitos#Cover|cobertura disponível]] ao defensor.
 
 ### Firearms em Close-Quarters Combat
 

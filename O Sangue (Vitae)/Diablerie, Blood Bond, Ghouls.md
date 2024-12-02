@@ -178,7 +178,7 @@ Este processo ocorre da seguinte forma:
         - Aprender [[Disciplinas]] que a vítima conhecia.
 
 3. **Falha no Teste:**
-	- Se o diablerista falhar no teste, ele perde um ponto adicional de [[Humanidade]] para cada sucesso que a vítima obteve a mais (similar a [[Dificuldade e Conflitos#Margem|Margem]]).
+	- Se o diablerista falhar no teste, ele perde um ponto adicional de [[Humanidade]] para cada sucesso que a vítima obteve a mais (similar a [[Dificuldade, Contests e Conflitos#Margem|Margem]]).
 	
 	- **Humanidade Zero:** Caso a perda reduza sua [[Humanidade]] a 0, a mente da presa substitui a do diablerista; eles se tornam o corpo hospedeiro do **Sangue** e da personalidade de sua vítima, transformando-se em um **SPC** (personagem controlado pelo Narrador).
 

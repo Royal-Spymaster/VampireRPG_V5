@@ -1,4 +1,4 @@
-
+#lore #concept
 ![[Pasted image 20241127221511.png]]
 
 ### Sumário

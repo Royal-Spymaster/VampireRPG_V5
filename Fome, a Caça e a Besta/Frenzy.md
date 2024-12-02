@@ -6,9 +6,12 @@
 
 ---
 
+pág. 219
 # Introdução: Frenzy
 
 Frenzy é uma constante ameaça à frágil paz de todo vampiro. Circunstâncias externas frequentemente provocam um frenesi, rompendo o frágil controle sobre a **Besta** interior. Sendo a expressão máxima dos impulsos mais primitivos do Sangue, o **frenesi** liberta a Besta sem pensamento ou remorso, permitindo que o predador atue em completo abandono.
+
+> 🧩**Dica Para o Narrador:** Os *triggers* de um frenesi variam com o tipo do Frenesi. Mas considere o contexto; o frenesi 
 
 #### Natureza do Frenesi
 - **Perda de Controle:**  
@@ -18,10 +21,12 @@ Frenzy é uma constante ameaça à frágil paz de todo vampiro. Circunstâncias 
     - **Pânico:** Para escapar de ameaças percebidas, muitas vezes de forma violenta e caótica.
 
 ### Resistindo ao Frenesi
-Para resistir a um frenesi, o vampiro deve fazer uma [[Entendendo Dados e Ficha#Trackers e Dice Pools|rolagem de Willpower]] contra uma [[Dificuldade e Conflitos#Dificuldade|Dificuldade]] determinada pelo Narrador, baseada no nível de provocação.
+Para resistir a um frenesi, o vampiro deve fazer uma [[Entendendo Dados e Ficha#Trackers e Dice Pools|rolagem de Willpower]] contra uma [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] determinada pelo Narrador, baseada no nível de provocação.
 
-1. Faça uma [[Entendendo Dados e Ficha#Trackers e Dice Pools|rolagem de Willpower]] (adicione modificadores de [[Humanidade]])
-	- Adiciona Modificadores de Humanidade:
+![[Pasted image 20241128133714.png]]
+
+1. Faça um [[Entendendo Dados e Ficha#Teste de Willpower na Ficha|teste de Willpower]] (adicione modificadores de [[Humanidade]])
+	- Adicione Modificador de Humanidade (conforme tabela acima):
 	    O vampiro adiciona dados extras à sua pool de [[Character#Willpower|Willpower]] equivalentes a um terço de sua [[Humanidade]] (arredondado para baixo).
 
 Resultados da Resistência (Bem-Sucedidos):

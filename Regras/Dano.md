@@ -1,4 +1,4 @@
-#combat #rules #important #concept
+#combat #rules #important #concept #character
 
 pág 126 
 
@@ -7,7 +7,7 @@ pág 126
 
 O Narrador decide qual rastreador o conflito afeta. Em um conflito físico, normalmente é a **Saúde**; em um conflito social, normalmente afeta a **Força de Vontade**.
 
-O vencedor de cada disputa aplica a [[Dificuldade e Conflitos#Margem|margem]] ***de sucesso*** ao rastreador relevante do perdedor como dano. Um personagem usando armas à distância também aplica sua margem de sucesso do teste de ataque.
+O vencedor de cada disputa aplica a [[Dificuldade, Contests e Conflitos#Margem|margem]] ***de sucesso*** ao rastreador relevante do perdedor como dano. Um personagem usando armas à distância também aplica sua margem de sucesso do teste de ataque.
 
 Às vezes, circunstâncias determinam ***dano adicional após a disputa***:
 
@@ -15,7 +15,7 @@ O vencedor de cada disputa aplica a [[Dificuldade e Conflitos#Margem|margem]] **
 - **Conflitos Sociais**: Em um conflito social, adicione dano dependendo do público-alvo (ver pág. 305). 
   *O Narrador também pode adicionar dano se a opinião do público for particularmente valorizada pelo perdedor.*
 
->Exemplo: Disparando sua espingarda contra um policial, Clara obtém uma [[Dificuldade e Conflitos#Margem|margem]] de dois sucessos. Somando o dano base da arma, com um valor de +4, o policial sofre 6 pontos de dano.
+>Exemplo: Disparando sua espingarda contra um policial, Clara obtém uma [[Dificuldade, Contests e Conflitos#Margem|margem]] de dois sucessos. Somando o dano base da arma, com um valor de +4, o policial sofre 6 pontos de dano.
 
 ---
 # Tipos de Dano
@@ -41,7 +41,7 @@ Dano agravado causa lesões severas, como ossos quebrados, ferimentos graves e l
 - **Exemplos de dano agravado físico:**
     - Armas cortantes e perfurantes causam dano agravado em humanos.
     - Em vampiros, normalmente apenas [[Perigos do Sangue#Fogo|fogo]], [[Perigos do Sangue#Luz do Sol|luz solar]], e as garras ou [[Kindred#Bite Attacks|presas]] de algumas criaturas sobrenaturais causam Dano Agravado.
-
+    
 - **Dano agravado em conflitos sociais (Willpower):**
     - Ocorre em ataques que:
         - **Revelam segredos importantes** sobre o alvo.
@@ -51,7 +51,9 @@ Dano agravado causa lesões severas, como ossos quebrados, ferimentos graves e l
 
 ## Impairment (Incapacitação)
 
-Quando um personagem acumula dano suficiente (de qualquer tipo ou uma combinação de ambos) para preencher totalmente um tracker (todos os quadrados), ele é considerado **Impaired** (Incapacitado).
+Quando um personagem acumula dano suficiente (de qualquer tipo ou uma combinação de ambos) ***para preencher totalmente um tracker*** (todos os quadrados), ele é considerado **Impaired** (Incapacitado).
+
+>🧩***Nota Importante:*** Para casos de *Impaired* de Saúde (tracker de Health preenchido), se o personagem sofrer mais dano, veja [[#Crippling Injuries]]
 
 ##### Efeitos de Incapacitação:
 
@@ -61,7 +63,7 @@ Quando um personagem acumula dano suficiente (de qualquer tipo ou uma combinaç�
 	- O Narrador pode aplicar penalidades adicionais a outras _dice pools_ relevantes, conforme julgar necessário.
 
 2. **Gastos Voluntários em Rastreadores**:
-- Quando um ponto é voluntariamente gasto de um rastreador (por exemplo, usando **Willpower** para re-rolar dados):
+- Quando um ponto é voluntariamente gasto de um rastreador (por exemplo, *[[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|usando Willpower para re-rolar dados]]*):
     - Marque o ponto como **dano superficial** usando um **"/"**.
     - Se todos os pontos no rastreador já estiverem marcados como superficiais, converta um ponto superficial para **dano agravado**, usando um **"X"**, conforme as regras usuais de incapacitação.
 - **Nota**: Dano superficial causado por gastos voluntários **não é dividido pela metade**.
@@ -120,20 +122,14 @@ Para jogadores que buscam combates mais intensos e detalhados, a tabela de _Crip
 >O jogador de Eric rola um **5** e adiciona o **1 ponto de [[Dano#Aggravated Damage|dano Agravado]] de Eric, resultando em 6**. Eric fica temporariamente **atordoado** (_stunned_). O jogador paga um ponto de **[[Character#Willpower|Willpower]]**, e Eric pode continuar sua fuga.
 
 
---- 
-
-
-
-
-
 
 ---
 # Dano de Armas
 
-Adicione a classificação de dano da arma à [[Dificuldade e Conflitos#Margem|margem]] do ataque vencedor para calcular o dano total infligido.
+Adicione a classificação de dano da arma à [[Dificuldade, Contests e Conflitos#Margem|margem]] do ataque vencedor para calcular o dano total infligido.
 
 >**Exemplo**: *Adam lança uma estátua de querubim de uma fonte em Pauline, obtendo dois sucessos. 
->Assim, Pauline já sofreria 2 níveis de [[#Superficial Damage|dano Superficial]] por conta da [[Dificuldade e Conflitos#Margem|margem]].
+>Assim, Pauline já sofreria 2 níveis de [[#Superficial Damage|dano Superficial]] por conta da [[Dificuldade, Contests e Conflitos#Margem|margem]].
 >Além disso, o Narrador atribui ao querubim um dano de **+3** – afinal, ele é bastante pesado – e, assim, Pauline sofre **cinco níveis de dano Superficial** (divididos pela metade, como de costume).*
 
 ![[Pasted image 20241127175858.png]]

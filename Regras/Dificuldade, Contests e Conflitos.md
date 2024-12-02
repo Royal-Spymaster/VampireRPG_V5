@@ -43,9 +43,23 @@ Algumas tarefas exigem equipamentos especializados, como arrombar uma fechadura,
 
 # Contests
 
-Disputas servem para oposições diretas. Hackear um sistema monitorado, passar furtivamente por um guarda que está procurando você, seduzir um policial infiltrado...
 
-Em disputas, não é necessário que os dois envolvidos utilizem a mesma pool; por exemplo, o Narrador pode instruir o personagem que está se esgueirando a usar **(Dexterity + Stealth)**, enquanto o guarda que está procurando utiliza **(Wits + Awareness)**.
+Disputas (Contests) servem para oposições diretas. Exemplo: Hackear um sistema monitorado, passar furtivamente por um guarda que está procurando você, seduzir um policial infiltrado...
+
+>**Disputas e Conflitos:** uma Disputa são ações opostas. Não necessariamente precisam ocorrer num Conflito. Por isso há essa diferenciação. Mas em todo conflito, há disputas.
+
+Em disputas, não é necessário que os dois envolvidos utilizem a mesma pool; por exemplo, o Narrador pode instruir o personagem que está se esgueirando a usar **(Dexterity + Stealth)**, enquanto o guarda que está procurando-o utiliza **(Wits + Awareness)**.
+
+## Empate em Contests e Conflitos
+Em caso de maior dúvida, consultar o [Primer]([Ties in Contests and Conflicts |](https://seattlebynightvtm.com/rulings/v5-primer/ties-in-contests-and-conflicts/))
+
+*Source: pág 123 até pág. 125*:
+>- **Quem está agindo tem a vantagem**: 
+>	- O "agente" ganha do "opositor". Logo, se você está tentando atacar alguém, e joga contra um (Dex + Athletics) de alguém que está tentando só se [[#Dodge|Esquivar]], e vocês empatam; você ganha (com a margem mínima.
+>	- Se você está tentando se ocultar, e você empata contra um (Wits + Awareness), você ganha.
+>	- Se você está tentando encontrar alguém, e você empata contra um (Dex + Stealth), você ganha.
+>  
+>- Basicamente, o critério de desempate é a "proatividade"; quem age ganha de quem reage.
 
 
 ### Pegar Metade

@@ -1,6 +1,19 @@
 #lore #important #rules #concept
 
-# Perigos do Sangue
+![[Pasted image 20241128131034.png]]
+
+### Sumário
+
+- [[#Perigos do Sangue|Perigos do Sangue]]
+    - [[#Luz do Sol|Luz do Sol]]
+    - [[#Fogo|Fogo]]
+    - [[#Frio Extremo|Frio Extremo]]
+    - [[#Decaptação|Decaptação]]
+    - [[#Estacas|Estacas]]
+
+---
+
+# Introdução
 
 Balas apenas causam hematomas nos Kindred; espadas apenas arranham sua carne. Mesmo que contraiam uma doença a partir de sangue humano infectado, eles a passam para os mortais de quem se alimentam, enquanto os germes morrem em seu próprio sistema. 
 
@@ -80,7 +93,7 @@ O personagem pode tentar afastar os vampiros brandindo um símbolo sagrado ou pr
 > 	 
 > 	 - **Sucessos e Dano:** Cada sucesso do mortal fiel faz com que o vampiro recue uma etapa e desvie os olhos; se o fiel tocar o vampiro com seu símbolo nesta cena, o vampiro também sofre 1 ponto de dano **Agravado** por sucesso, enquanto o símbolo queima sua carne. 
 > 	   
-> 	 - **Sucesso Crítico:** Um [[Entendendo Dados e Ficha#Sucesso Críticos|sucesso crítico]] faz com que o vampiro fuja e aciona um teste para [[Frenzy#Frenesi de Terror|Frenesi de Terror]] com uma [[Dificuldade e Conflitos#Dificuldade|Dificuldade]] igual à Verdadeira Fé do personagem.
+> 	 - **Sucesso Crítico:** Um [[Entendendo Dados e Ficha#Sucesso Críticos|sucesso crítico]] faz com que o vampiro fuja e aciona um teste para [[Frenzy#Frenesi de Terror|Frenesi de Terror]] com uma [[Dificuldade, Contests e Conflitos#Dificuldade|Dificuldade]] igual à Verdadeira Fé do personagem.
 
 ---
 ### True Faith: Nível 2
@@ -119,8 +132,10 @@ Os **Kindred** habitam um estado intermediário entre a vida e a morte. Entre a 
     - Vampiros em Torpor não podem usar [[Disciplinas]] nem reagir a estímulos externos comuns.
     - Permanecem em um estado de completa ausência de vida até que a condição que os levou ao Torpor seja resolvida.
 
+![[Pasted image 20241128133714.png]]
+
 2. **Duração do Torpor**:
-	- O tempo que um vampiro permanece em Torpor depende do seu nível de [[Humanidade]] (consulte a tabela de Humanidade, p. 241 do livro de regras).
+	- O tempo que um vampiro permanece em Torpor depende do seu nível de [[Humanidade]].
 	- Caso o vampiro tenha sido empalado com uma **estaca**, ele permanecerá em Torpor mesmo após o período usual, até que a estaca seja removida.
 	- Vampiros despertam imediatamente após a remoção da estaca (ou ao anoitecer), desde que seu tempo de Torpor tenha expirado.
 
