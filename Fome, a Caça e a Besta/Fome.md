@@ -213,7 +213,7 @@ Vampiros podem se alimentar uns dos outros, reduzindo a própria **Fome** enquan
 
 > 💡**Para Saber Mais**: Drenar completamente um vampiro, consumindo por completo sua vitae consiste em [[Diablerie, Blood Bond, Ghouls#Diablerie|diablerie]].
 
-#### Regras
+#### Regras (Sangue de Outros Vampiros)
 
 - **Mesmo Nível de [[Gerações e Potência|Potência de Sangue]]**: Para cada ponto de **Fome** aumentado no doador, o vampiro que se alimenta reduz **1 ponto de Fome**.
 
@@ -241,7 +241,7 @@ Infelizmente, para a comunidade vampírica, a maior parte do sangue de supriment
 
 >Todas essas alterações tornam o sangue em bolsa **desagradável** (na melhor das hipóteses) de consumir e quase **inútil** para os [[Kindred]].
 
-#### Regras
+#### Regras (Bolsas de Sangue)
 
 >- Sem o Mérito ***Iron Gullet***, vampiros não conseguem sustento a partir de sangue processado.
 >  

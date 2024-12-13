@@ -112,7 +112,7 @@ Este é o preço da imortalidade e do poder sobrenatural.
 
 #### Fome 5 e Rouse Check
 Se o vampiro já estiver no nível **Fome 5**, ele não pode intencionalmente realizar um Rouse Check. 
-Caso seja forçado a fazer isso, deve imediatamente passar por um teste de [[Frenzy|Frenesi]] (Dificuldade 4).
+Caso seja forçado a fazer isso, deve imediatamente passar por um teste de [[Frenzy#Frenesi de Fome|Frenesi de Fome]] (Dificuldade 4).
 
 ---
 # Bite Attacks

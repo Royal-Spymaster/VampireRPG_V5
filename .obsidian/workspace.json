@@ -58,19 +58,121 @@
           {
             "id": "da8fcae96e63fad3",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fome, a Caça e a Besta/Frenzy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Frenzy"
+            }
+          },
+          {
+            "id": "11d92123a5fa7ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "c836154be719918a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kindred.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kindred"
+            }
+          },
+          {
+            "id": "98ae04613a410550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fome, a Caça e a Besta/Fome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fome"
+            }
+          },
+          {
+            "id": "54e17092e9a17cb6",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Humanidade.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Humanidade"
             }
+          },
+          {
+            "id": "0f27e81f5d74f502",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "7067d0da2d9c801a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
+          },
+          {
+            "id": "f4728b9a97038537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -101,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Willpower",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.509765625
+    "width": 274.509765625
   },
   "right": {
     "id": "4c4593135122a3ba",
@@ -239,7 +341,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,11 +361,31 @@
   },
   "active": "e1ad44efcd958df5",
   "lastOpenFiles": [
-    "Dicas.md",
+    "Pasted image 20241213183304.png",
+    "Pasted image 20241213183224.png",
+    "O Sangue (Vitae)/Perigos do Sangue.md",
     "Character.md",
-    "Advantages.md",
+    "O Sangue (Vitae)/Clãs.md",
+    "Regras/Exemplos de Testes.md",
     "Fome, a Caça e a Besta/Fome.md",
+    "O Sangue (Vitae)/Disciplinas.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Mapa de Relacionamentos.md",
+    "Images/Styles/Pasted image 20241213175019.png",
+    "Pasted image 20241213162254.png",
+    "O Sangue (Vitae)/Resonance.md",
+    "Fome, a Caça e a Besta/Frenzy.md",
+    "Fome, a Caça e a Besta/Predator Type.md",
     "Humanidade.md",
+    "Dicas.md",
+    "Fome, a Caça e a Besta/Hunting and Feeding.md",
+    "Images/Info/Pasted image 20241213145106.png",
+    "Images/Info/Pasted image 20241213145117.png",
+    "Images/Info/Pasted image 20241213144931.png",
+    "Images/Info/Pasted image 20241213144957.png",
+    "Kindred.md",
+    "Advantages.md",
     "Lore/Camarilla.md",
     "Lore/Jyhad.md",
     "Lore/Sabbat.md",
@@ -272,33 +395,13 @@
     "Regras/Entendendo Dados e Ficha.md",
     "Lore/Abraço.md",
     "Lore/Anarquistas.md",
-    "Dante (Player)/Sessions/Session_0.md",
-    "Regras/Regras Fundamentais.md",
-    "Kindred.md",
-    "Regras/Exemplos de Testes.md",
-    "Regras/Regras Avançadas.md",
     "Images/Info/Pasted image 20241212005042.png",
     "Images/Info/Pasted image 20241212004905.png",
     "Images/Info/Pasted image 20241212004831.png",
-    "Images/Info/Pasted image 20241212004810.png",
-    "Fome, a Caça e a Besta/Frenzy.md",
     "External Documents/Vampire the Masquerade.pdf",
     "External Documents/Quaternario.pdf",
-    "O Sangue (Vitae)/Gerações e Potência.md",
-    "O Sangue (Vitae)/Perigos do Sangue.md",
-    "O Sangue (Vitae)/Diablerie, Blood Bond, Ghouls.md",
-    "O Sangue (Vitae)/Disciplinas.md",
-    "Untitled.canvas",
     "Recording 20241208010103.m4a",
-    "O Sangue (Vitae)/Resonance.md",
-    "Dante (Player)/Images/Itens/Pasted image 20241203130103.png",
-    "Dante (Player)/Abraço de Dante.md",
     "Dante (Player)/Images/Itens",
-    "Dante (Player)/Images/Concept_Arts/Pasted image 20241130003351.png",
-    "Dante (Player)/Images/Concept_Arts/DALL·E 2024-11-26 20.28.02 .webp",
-    "Dante (Player)/Images/Concept_Arts/Pasted image 20241126063200.png",
-    "Dante (Player)/Images/Concept_Arts/Pasted image 20241126063846.png",
-    "Images/Styles/Pasted image 20241130051016.png",
     "Dante (Player)/Sessions/NPCs",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
