@@ -58,7 +58,7 @@ O Narrador e o jogador trabalham juntos para decidir o nível do sucesso, e o n�
 Exemplos de ações selvagens: 
 - **Larceny**: ao tentar arrombar uma porta com lockpicking, o vampiro usa uma força descomunal que acaba quebrando a tranca de uma forma que abre a porta, mas causa um barulho alto que pode prejudicar sua furtividade.
 - **Social**: ao tentar manipular ou convencer alguém, o vampiro pode elevar o tom de voz, aparecer mais ameaçador do que pretendia ou mesmo ativar uma [[Disciplinas|Disciplina]] de Dominação ou Presença instintivamente.
-- **Combate**:  o vampiro é mais letal do que planeja; talvez até use uma força sobrenatural que resulte em possível **quebra da [[Camarilla#1ª Tradição **A Máscara** (*The Masquerade*)|Máscara]]**.
+- **Combate**:  o vampiro é mais letal do que planeja; talvez até use uma força sobrenatural que resulte em possível **quebra da** [[Camarilla#1ª Tradição **A Máscara** (*The Masquerade*)|Máscara]].
 - **Alimentando-se**: o vampiro foi descuidado durante sua [[Hunting and Feeding#Hunting Roll|caça]], gerando possíveis evidências, talvez até matando a vítima. 
 
 Essas ações mais selvagens podem gerar consequências interessantes, como:

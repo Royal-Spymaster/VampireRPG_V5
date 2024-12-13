@@ -17,7 +17,7 @@
     - [[#Neonatos: 12ª e 13ª Gerações|Neonatos: 12ª e 13ª Gerações]]
     - [[#14ª a 16ª Gerações: Sangue-Fraco|14ª a 16ª Gerações: Sangue-Fraco]]
 - [[#Idade e Geração|Idade e Geração]]
-    - [[#Childer ou Fledglings|Childer ou Fledglings]]
+    - [[#Childer or Fledglings|Childer ou Fledglings]]
     - [[#Neonates|Neonates]]
     - [[#Ancillae|Ancillae]]
     - [[#Elders|Elders]]
@@ -47,13 +47,13 @@ Todos os vampiros obtêm seus poderes profanos através do Sangue, mas nem todo 
 - A geração de um vampiro é fixa no momento do Abraço.
 - Apenas a **diablerie** – o ato proibido de consumir o Sangue e a essência de outro vampiro – pode reduzir a geração.
 
-#### **Diferença Entre Idade e Geração:**
+#### Diferença Entre Idade e Geração:
 
 - A geração não reflete necessariamente a idade de um vampiro:
     - Um **ancião (elder)** pode ter criado um vampiro da **10ª Geração** no século XV.
     - Um **matusalém** poderia Abraçar alguém da **6ª Geração** na atualidade.
 
-#### **Implicações:**
+#### Implicações:
 
 - Vampiros de gerações mais baixas possuem um Sangue mais potente e habilidades superiores.
 - A proximidade com Caim influencia diretamente a capacidade e os limites da vitae, moldando tanto o poder quanto a maldição de um vampiro.
@@ -173,13 +173,13 @@ Mesmo dentro de uma mesma Geração, a potência do Sangue varia. Com o passar d
 
 No entanto, com o aumento da potência vêm também custos – é necessário mais sangue para se sustentar, e a maldição da linhagem se torna mais evidente.
 
-A **Potência do Sangue** aumenta pode aumentar:
+A **Potência do Sangue** aumenta/pode aumentar:
  - Envelhecimento: Como regra geral, um vampiro ganha um ponto de Potência do Sangue a cada 100 anos enquanto ativo, 
- - Experiências Intensas: Experiências intensas ou exposição a Sangue extremamente potente possam acelerar o processo.
+ - Experiências Intensas: Experiências intensas ou exposição a Sangue extremamente potente podem acelerar o processo.
 
 Como também é possível **Perder Potência de Sangue:**
 - Vampiros em [[Perigos do Sangue#Torpor|torpor]] perdem Potência do Sangue à taxa de um nível a cada 50 anos.
--  A Potência do Sangue de um vampiro nunca pode cair abaixo do mínimo para sua geração, nem ser aumentada além do máximo. 
+- A Potência do Sangue de um vampiro nunca pode cair abaixo do mínimo para sua geração, nem ser aumentada além do máximo. 
   
 - **Thin-bloods** nunca podem aumentar sua Potência do Sangue, a menos que realizem [[Diablerie, Blood Bond, Ghouls|diablerie]] para atingir a 13ª geração ou superior.
 

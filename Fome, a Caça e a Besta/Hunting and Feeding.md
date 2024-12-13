@@ -124,6 +124,6 @@ Um território de caça específico pode ter modificadores específicos com base
 | Festival, desfile, comício, tumulto ou outro grande<br>evento temporário              | -2 em Dificuldade |
 Dependendo da área e circunstância, vampiros talvez precisem caçar em grupo ou em duplas: um parceiro para ajudar na sedução, um suporte para lidar com presas maiores, ou um vigia para alertar um alimentador distraído. 
 
->Se o plano parecer plausível, o Narrador pode permitir **trabalho em equipe** (*p. 122).*
+>Se o plano parecer plausível, o Narrador pode permitir [[Regras Fundamentais#Teamwork (Before Roll)|Trabalho em Equipe]].
 
 Da mesma forma, Narradores **podem aumentar as dificuldades de caça para vampiros particularmente desumanos** (como Nosferatu, alguns Gangrel ou aqueles com níveis de Humanidade 4 ou abaixo), já estes monstros têm dificuldade em se misturar com uma multidão.

@@ -9,7 +9,7 @@
 - [[#1ª Tradição: **A Máscara** (*The Masquerade*)|1ª Tradição: A Máscara (The Masquerade)]]
 - [[#2ª Tradição: **O Domínio** (*The Domain*)|2ª Tradição: O Domínio (The Domain)]]
 - [[#3ª Tradição: **A Prole** (*The Progeny*)|3ª Tradição: A Prole (The Progeny)]]
-- [[#4ª Tradição: **A Contabilidade** (*The Accounting*)|4ª Tradição: A Contabilidade (The Accounting)]]
+- [[#4ª Tradição A Responsabilidade (*The Accounting*)|4ª Tradição: A Responsabilidade (The Accounting)]]
 - [[#5ª Tradição: **A Hospitalidade** (*Hospitality*)|5ª Tradição: A Hospitalidade (Hospitality)]]
 - [[#6ª Tradição: **A Destruição** (*Destruction*)|6ª Tradição: A Destruição (Destruction)]]
 - [[#Contexto Narrativo das Leis|Contexto Narrativo das Leis]]
@@ -58,19 +58,19 @@ A Máscara é a tradição mais respeitada, mas também a mais quebrada. Vampiro
 A punição para uma quebra da Máscara pode ser severa, até mesmo resultando em execução. Na era digital, com redes sociais, vídeos virais e vigilância constante, manter a Máscara é mais desafiador do que nunca. Uma transgressão pode atrair a atenção da *[[Segunda Inquisição]]* ou levar a uma [[#5ª Tradição **A Hospitalidade** (*Hospitality*)|Caçada de Sangue (Blood Hunt).]]
 
 ---
-## 2ª Tradição: **O Domínio** (*The Domain*)
+## 2ª Tradição: **O Domínio** (***The Domain***)
 > *“Teu domínio é tua responsabilidade. Todos te devem respeito dentro dele. Nenhum pode desafiar tua palavra enquanto estiverem em teu domínio.”*
 
 O [[#Estrutura e Organização|Príncipe]] governa a cidade como seu domínio, mas pode delegar partes dela a outros vampiros em troca de favores ou serviços. Essa tradição cria uma estrutura feudal, onde distritos, quarteirões ou áreas específicas podem ser controlados por diferentes Kindred. Respeitar o domínio é essencial para navegar na política vampírica e evitar conflitos mortais.
 
 ---
-## 3ª Tradição: **A Prole** (*The Progeny*)
+## 3ª Tradição: **A Prole** (***The Progeny***)
 > *“Somente criarás outro com a permissão de teu ancião. Se criares outro sem permissão, tu e tua Prole serão destruídos.”*
 
 A criação de novos vampiros requer a autorização do [[#Estrutura e Organização|Príncipe]]. Isso evita a superpopulação, que pode ameaçar a Máscara e gerar conflitos por recursos. A criação de um novo vampiro é um ato altamente político, frequentemente usado para consolidar alianças ou como recompensa. Em tempos de crise, como após a Segunda Inquisição, essa prática tornou-se ainda mais restrita.
 
 ---
-## 4ª Tradição: **A Responsabilidade** (*The Accounting*)
+## 4ª Tradição: A Responsabilidade (*The Accounting*)
 > *“Aqueles que crias são teus filhos. Até que sejam liberados, tu os comandarás em todas as coisas. Seus pecados serão teus para suportar.”*
 
 Os vampiros recém-criados permanecem sob a responsabilidade de seus criadores até serem "liberados" formalmente na sociedade vampírica. Essa tradição é uma salvaguarda contra recém-criados descontrolados que possam expor a comunidade. A Camarilla exige que os *Childer* demonstrem valor antes de sua aceitação; aqueles que falham são muitas vezes descartados, destruídos ou entregues aos [[Anarquistas]].

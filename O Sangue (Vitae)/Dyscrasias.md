@@ -33,7 +33,7 @@ Para transformar uma vítima em portadora de uma Dyscrasia, PRIMEIRAMENTE o vamp
 1. **Testes Sociais bem-sucedidos:** Elevar a Resonance da vítima de ***"fleeting"*** para ***"intense"***, ou de ***"intense"*** para ***"acute"**.*
 2. **Interpretação narrativa:** Uma [[Regras Fundamentais#scene|cena]] bem interpretada pode justificar a intensificação do temperamento da vítima.
 
-### **Criando Dyscrasias**
+### Criando Dyscrasias
 Uma vez que a vítima atinja uma [[Resonance]] aguda, o vampiro pode manipulá-la em longo prazo para formar uma Dyscrasia:
 - **Exemplo Sanguine:** Um caso amoroso de meses ou anos pode criar uma Dyscrasia baseada na paixão ou vitalidade da vítima.
 - **Exemplo Melancholic ou Choleric:** Tortura prolongada, como confinamento ou lavagem cerebral, pode resultar em Dyscrasias melancólicas ou coléricas, dependendo do método.

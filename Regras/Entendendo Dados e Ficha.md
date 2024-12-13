@@ -8,7 +8,6 @@ Os dados de *Vampiro: A Máscara V5* são d10. Como iremos utilizar o [Demiplane
 
 ### Sumário
 - [[#Dice Pool|Dice Pool]]
-    - [[#Composição da Dice Pool|Composição da Dice Pool]]
     - [[#Especialidades na Dice Pool|Especialidades na Dice Pool]]
         - [[#Encontrando Especialidades na Ficha|Encontrando Especialidades na Ficha]]
     - [[#Trackers e Dice Pools|Trackers e Dice Pools]]
@@ -20,7 +19,7 @@ Os dados de *Vampiro: A Máscara V5* são d10. Como iremos utilizar o [Demiplane
     - [[#Dados Regulares|Dados Regulares]]
         - [[#Falha|Falha]]
         - [[#Sucesso|Sucesso]]
-        - [[#Sucesso Crítico|Sucesso Crítico]]
+        - [[#Sucesso Críticos|Sucesso Crítico]]
         - [[#Interpretando Dados (Cenário)]]
     - [[#Dados de Fome|Dados de Fome]]
         - [[#Faces do Dado de Fome|Faces do Dado de Fome]]
@@ -30,10 +29,10 @@ Os dados de *Vampiro: A Máscara V5* são d10. Como iremos utilizar o [Demiplane
             - [[#Resultado Mínimo (Fome)|Resultado Mínimo (Fome)]]
         - [[#Messy Critical|Messy Critical]]
         - [[#Bestial Failure|Bestial Failure]]
-- [[#Tutorials|Tutorials]]
     - [[#Tutorial: Rouse Check|Tutorial: Rouse Check]]
         - [[#Explicando a Lógica|Explicando a Lógica]]
     - [[#Tutorial: Como Rolar os Dados na Ficha|Tutorial: Como Rolar os Dados na Ficha]]
+    - [[#Tutorial Como Re-Rolar os Dados na Ficha|Tutorial: Como Re-Rolar Dados Na Ficha Usando Willpower]]
 
 --- 
 # Dice Pool
@@ -325,3 +324,26 @@ Após a criação do personagem através do [Demiplane]([https://app.demiplane.c
 - **Manualmente**: clique no ícone inferior esquerdo. Irá abrir uma janela, onde você pode incluir na sua rolagem dados normais e dados de fome.
 
 ![[Pasted image 20241123021026.png]]
+
+---
+## Tutorial: Como Re-Rolar os Dados na Ficha 
+
+Uma mecânica FUNDAMENTAL do Vampiro é utilizar seu [[Character#Willpower|Willpower]] para re-rolar dados. 
+
+>***É essencial você entender as circunstâncias em que pode realizar isso em*** [[Regras Fundamentais#Willpower em Testes (After Roll/Re-roll)|Re-rolando Testes Com Willpower]].
+
+**Confira o passo-a-passo** para realizar essa mecânica explicada previamente neste documento, através da sua ficha interativa.
+
+1. Marque o dano em [[Character#Willpower|Willpower]]  em:
+
+![[Pasted image 20241212004905.png]]
+
+2. Clique em **re-roll** no log de dados do teste que você quer re-rolar em>
+   
+![[Pasted image 20241212004831.png]]
+
+3. Selecione até **TRÊS DADOS NORMAIS**, conforme previsto nas regras. **Não devem ser** [[Entendendo Dados e Ficha#Dados de Fome|Dados de Fome]]!
+   
+![[Pasted image 20241212005042.png]]
+
+4. Clique em Roll, e reze.

@@ -135,7 +135,7 @@ As preferências variam amplamente, indo de **Ventrue** que só podem se aliment
 
 - **Determinar o Valor do Sangue**: Com um teste de **Resolve + Awareness** (Dificuldade 4 ou mais), seu personagem pode sentir se um mortal possui o sangue necessário.
 
-- **Gasto de Willpower:** Se o jogador quiser que seu personagem se alimente de algo além de sua vítima preferida, deve gastar pontos de **Willpower** iguais à **Bane Severity** do personagem.
+- **Gasto de Willpower:** Se o jogador quiser que seu personagem se alimente de algo além de sua vítima preferida, deve gastar pontos de **Willpower** iguais à [[Character#Bane Severity|Bane Severity]] do personagem.
 
 
 ---

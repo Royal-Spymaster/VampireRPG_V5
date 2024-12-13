@@ -261,6 +261,8 @@ Use-os com frequência, especialmente fora de combate ou para testes em que a fa
 ---
 ### Willpower em Testes (After Roll/Re-roll)
 
+>😎**Dica do Autor**: Entenda o que é [[Character#Willpower|Willpower]], e razões para você talvez querer economizá-lo antes de sair por aí gastando ele.
+
 Caso o resultado não seja satisfatório em um teste, o **personagem pode gastar 1 ponto de [[Character#Willpower|Willpower]] para re-rolar até três dados normais da sua dice pool em um teste.**
 
 1. Garanta que os dados que você quer rolar de novo não são dados de [[Fome]], e nem que o teste que você está realizado seja relacionado a [[Character#Trackers|rastreadores]], como [[Character#Willpower|Willpower]] ou [[Humanidade]].
@@ -270,6 +272,9 @@ Caso o resultado não seja satisfatório em um teste, o **personagem pode gastar
 >**Lembre-se:** você pode fazer para re-rolar dados regulares em qualquer teste de [[Character#Habilidades|Habilidade]] ou [[Character#Atributo|Atributo]], incluindo testes que envolvam [[Disciplinas]] vampíricas. 
 
 >**⚠️ Nota Importante**: Um ponto de Força de Vontade gasto conta como tendo sofrido um nível de dano Superficial à Força de Vontade e deve ser marcado como tal na ficha.
+
+>📘**Tutorial**: Veja como realizar re-rolar os dados usando o Willpower de maneira automática através da sua ficha em [[Entendendo Dados e Ficha#Tutorial Como Re-Rolar os Dados na Ficha|Como Re-Rolar os Dados na Ficha Interativa Usando Willpower]]. 
+
 
 ---
 ## Checks

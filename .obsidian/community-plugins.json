@@ -1,7 +1,7 @@
 [
   "obsidian-copy-block-link",
-  "obsidian-plugin-toc",
   "enhanced-annotations",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "automatic-table-of-contents"
 ]

@@ -2,7 +2,10 @@
 
 ![[Pasted image 20241128130643.png]]
 
+```table-of-contents
+```
 
+---
 # Introdução
 
 _Humanidade_ mede o quão próximo um vampiro ainda está de sua vida humana, das pessoas que os conectam com a luz e das preocupações humanas em geral. Com o passar do tempo, a maioria dos vampiros perde _Humanidade_, à medida que a Besta interior vai minando seus sentimentos, memórias e conexões com o mundo mortal.
@@ -201,7 +204,7 @@ A _Humanidade_ só muda em resposta a ações de grande significância para a hi
 As corrupções e deformações mais comuns da _Humanidade_ de um personagem podem causar _Manchas_ na sua trilha de _Humanidade_. Se muitas Manchas se acumularem sem arrependimento ou reparação, a _Humanidade_ de um personagem pode cair.
 
 ### Calculando as Manchas 
-**Rastreie as Manchas** marcando os espaços da direita para a esquerda. 
+**Rastreie as Manchas** marcando os espaços da ***direita para a esquerda***. 
 
 Por exemplo, este rastreador representa um vampiro com _Humanidade 6_ e duas Manchas:
 
@@ -390,3 +393,74 @@ Lembre-se de que os Princípios só impõem sanção moral e degeneração aos p
 ---
 # Touchstones
 
+Touchstones são as "âncoras" da sua humanidade. Uma dos significados traduzidos para a palavra **touchstone** é literalmente *"um teste ou critério para determinar a qualidade ou autenticidade de uma coisa."*
+
+São âncoras para com a Humanidade do vampiro. E se conecta diretamente com suas convicções.
+
+**Cada vampiro começa com tantos Marcos (Touchstones) quanto possui Convicções (Convictions):** humanos que representam o que você valorizava em vida, alguém que encarna ou parece representar uma de suas Convicções. Se perdido, a Convicção também é perdida.
+
+>É importante a Touchstone ser uma pessoa, ser um ser humano vivo; conectar-se à **Humanidade** através do que é inumano é, no mínimo, tomar o caminho mais longo.
+
+## Exemplos de Touchstones
+
+- Seu cônjuge, amante ou pai/mãe humano sobrevivente.
+- Seu filho humano, ou (para vampiros mais velhos) um descendente de sua linhagem familiar.
+- Um humano que se parece exatamente com alguém que você amou em vida.
+- Um humano que você admirava em vida ou um descendente dessa pessoa.
+- Um humano relacionado a alguém que você matou muito cedo em sua não-vida: alguém que você jurou que não precisava matar porque "você não é um monstro, não de verdade".
+- Alguém que você reconheceu como uma pessoa rara e decente, mesmo aos seus olhos: um voluntário em um abrigo de animais, um padre, uma enfermeira, um assistente social, uma simpática senhora idosa do bairro.
+- Alguém que representa algo que você prezava em vida e ainda se apega: um atleta, um músico ou artista, um clérigo da sua fé. Basicamente um ídolo.
+- Alguém que guarda, simboliza ou protege algo que você valoriza: o porteiro do prédio onde você vivia, o policial de sua antiga patrulha, um repórter combativo, a mãe solteira que mora em sua casa de infância, o zelador que varre seu túmulo.
+
+>**Exemplo:**
+>*Torfi cria dois **Touchstones** para seu personagem: um jovem que recentemente adotou crenças xenofóbicas e se envolveu com o grupo errado, e o pai de seu personagem, que ainda está vivo e acredita que seu filho morreu há muitos anos.*
+
+---
+# Ambição e Desejo
+
+**Ambição** e **Desejo** estão relacionados, mas não são idênticos. 
+
+>- **Ambição:** Pense na **Ambição** como um objetivo de longo prazo; uma aspiração (se você ainda respirasse), um sonho de vida (se ainda sonhasse ou tivesse vida). 
+>- **Desejo**: Em contraste, os **Desejos** são mais imediatos. Podem ser anseios de curto prazo por vingança, ou satisfação.
+  
+ ---
+## Ambição e Aplicabilidade
+
+A **Ambição** de um personagem mantém suas ações e movimentos tanto noite após noite quanto ao longo da crônica. Ela fornece motivação para o jogador e pontos de partida narrativos para o Narrador.
+
+>💡**Importante**: Uma **Ambição** deve ser mensurável em termos de jogo. 
+>Por exemplo, pode ser algo como "*Minha Ambição é alcançar Humanidade 10*" ou representar uma conquista concreta na crônica, como "*Minha Ambição é libertar o Rio da Camarilla*"
+>
+>- **Não pode ser algo vago:** Coisas como “*acabar com o racismo*” ou “*alcançar a paz mundial*” não podem ser Amnbições. 
+>  
+>  - **Especificidade**: Pense em algo específico, como “trazer a [[Perigos do Sangue#Morte Final|Morte Final]] para o (*insira aqui o ancião notoriamente racista de sua crônica*)” ou “*acabar com a Guerra da Gehenna na Ucrânia*”.
+
+- **Só precisa ser teoricamente alcançável**: Mesmo que uma Ambição seja improvável de acontecer ou termine a crônica caso realizada, ela ainda pode oferecer um rico material narrativo – ela só precisa ser teoricamente alcançável.
+
+
+>🧩 **Aplicabilidade Mecânica**: No final de uma sessão em que o personagem trabalhou ativamente em direção à sua Ambição, ele recupera um ponto de [[Dano#Aggravated Damage|dano Agravado]] de [[Character#Willpower|Willpower]].
+
+### Alcançando a Ambição
+
+Se um personagem realiza sua **Ambição** e a crônica continua, o jogador deve decidir uma nova Ambição, idealmente uma que tenha surgido durante o jogo ou que seja consequência da percepção de que a primeira Ambição deixou algo inacabado ou incompleto.
+
+---
+## Desejo (Opcional)
+
+>❗O Desejo é mais uma "regra"/recurso para ajudar a guiar seu personagem, e uma dica do livro. Confira com seu **Narrador** se as mecânicas do Desejo irão se aplicar.
+
+O **Desejo** reflete algo menos duradouro que uma **Ambição**, mas mais significativo do que um desejo momentâneo. A cada sessão, um personagem pode escolher um Desejo ou manter o Desejo não realizado da sessão anterior. 
+
+- **Recompensa do Desejo**: Uma vez por sessão, quando o personagem age de forma definitiva para avançar ou realizar seu Desejo, ele pode recuperar imediatamente um ponto de [[Dano#Superficial Damage|Dano Superficial]] de [[Character#Willpower|Willpower]].
+
+Como os Desejos mudam rapidamente, não é necessário anotá-los na ficha do personagem. Basta escrever o Desejo atual em um cartão ou Post-it onde tanto o jogador quanto o Narrador possam vê-lo e lembrar.
+
+Esse mecanismo foi projetado intencionalmente para oferecer aos jogadores um incentivo para a ação do personagem, em vez de esperar passivamente pela trama ou recuar defensivamente. 
+Assim, um bom **Desejo** deve se conectar de alguma forma com o mundo externo.
+
+>- **Uma regra prática é**: se o Desejo não envolve algo ou alguém nomeado no [[Mapa de Relacionamentos]], ele não vale a pena ser considerado. 
+>	- **PORTANTO**, “Quero dirigir um Maserati vermelho-cereja” ou “Quero comer uma morena” não funcionam como Desejos.
+>	- **Porém**, “*Quero dirigir o Maserati vermelho-cereja de Cytherea*” ou “Quero comer a morena de Lord Harkness” são ótimos Desejos.
+
+
+>🧩**Para O Narrador**: O Narrador deve avaliar se Desejos que envolvem personagens de outros jogadores se enquadram no espírito de incentivar interações significativas ou apenas na tentativa preguiçosa de obter Força de Vontade gratuitamente.
