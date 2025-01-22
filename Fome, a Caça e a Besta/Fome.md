@@ -73,9 +73,9 @@ Essas ações mais selvagens podem gerar consequências interessantes, como:
 - **Aumentar a Fome**: Sua **Besta** quase vem à tona, mas, como isso significaria algo prejudicial e não há uma maneira boa e dramática de conciliar isso com um sucesso, você reprime o impulso, aumentando a pressão para se alimentar como consequência.
 
 ![[Recording Messy Critical.m4a]]
+
 >🧩**Dica Para o Narrador**: há uma discordância em relação a essa parte do livro entre diversos Narradores. Para entender o contexto, escute o áudio acima ([[Recording Messy Critical.m4a|ou clique aqui para escutá-lo]]).
 >Link mencionado no áudio: [dealing with messy criticals as a Narrator](https://www.reddit.com/r/vtm/comments/pk4bci/question_about_messy_critical_and_how_to_deal/)
-
 
 ### A Besta: Bestial Failure
 Isso significa que a **Besta** do personagem se manifestou de maneira inoportuna ou que sua falha enfureceu a Besta, causando sua interferência.
@@ -84,7 +84,7 @@ Isso significa que a **Besta** do personagem se manifestou de maneira inoportuna
 
 >Para entender como ocorre um Bestial Failure nos dados, [[Entendendo Dados e Ficha#Bestial Failure|clique aqui]].
 
-- **Consequência do Bestial Failure**: Quando um personagem sofre um Bestial Failure, deve agir de acordo com uma [[#Compulsão]], já que o Sangue começa a ditar sutilmente suas ações.
+- **Consequência do Bestial Failure**: Quando um personagem sofre um Bestial Failure, deve agir de acordo com uma [[#Compulsões|Compulsão]], já que o Sangue começa a ditar sutilmente suas ações.
 
 > **Nota Importante:** algumas [[Clãs#Banes (Maldições)|Maldições de Clã]] são despertadas na ocorrência de um Bestial Failure.
 
@@ -93,7 +93,7 @@ Entrementes, o livro oferece algumas outras opções:
 *Source: pág. 207*
  - Consequências Adicionais (não recomendo, mas está aqui):
 	 - **Dano Agravado**: o personagem sofre um ou mais pontos de [[Dano]] Agravado em sua [[Character#Health|Health]].   
-	 - **Aumento de Fome**: aumente a Fome em 1 nível. Caso isso faça com que a Fome do personagem passe de 5, ele imediatamente rola para resistir a [[Kindred#Frenzy|Frenzy]]. 
+	 - **Aumento de Fome**: aumente a Fome em 1 nível. Caso isso faça com que a Fome do personagem passe de 5, ele imediatamente rola para resistir a [[Frenzy]]. 
 
 
 ---
@@ -219,9 +219,9 @@ Vampiros podem se alimentar uns dos outros, reduzindo a própria **Fome** enquan
 
 - **Doador com Maior [[Gerações e Potência|Potência de Sangue]]**: Se o doador tiver **2 ou mais níveis de [[Gerações e Potência|Potência de Sangue]] superiores**, o vampiro que se alimenta reduz **2 pontos de Fome** por cada ponto de Fome aumentado no doador.
 
-- **Doador com [[Gerações e Potência|Potência de Sangue]]**: Se o doador tiver **2 ou mais níveis de [[Gerações e Potência|Potência de Sangue]] inferiores**, o vampiro que se alimenta reduz **1 ponto de Fome** para cada **2 pontos de Fome** infligidos no doador.
+- **Doador com Menor [[Gerações e Potência|Potência de Sangue]]**: Se o doador tiver **2 ou mais níveis de [[Gerações e Potência|Potência de Sangue]] inferiores**, o vampiro que se alimenta reduz **1 ponto de Fome** para cada **2 pontos de Fome** infligidos no doador.
 
->**⚠️ ATENÇÃO**: Alimentar-se diretamente de outro vampiro pode criar um [[Diablerie, Blood Bond, Ghouls|Blood Bond]], uma conexão mística e emocional entre o doador e o bebedor.
+>**⚠️ ATENÇÃO**: Alimentar-se diretamente de outro vampiro pode criar um [[Diablerie, Blood Bond, Ghouls#Blood Bond|Blood Bond]], uma conexão mística e emocional entre o doador e o bebedor.
 
 ---
 ### Alimentando-se de Animais

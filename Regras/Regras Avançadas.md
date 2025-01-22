@@ -257,7 +257,7 @@ Um personagem arremessando uma arma contra um alvo realiza um teste de **Dexteri
 
 - **Conflitos Opostos**: Uma troca de tiros acirrada entre dois atacantes também pode ser resolvida como um conflito oposto.
 
-- ***Cobertura (Sempre Considerar)***: Em ambos os casos, modifique os testes conforme o tipo e nível de c[[Dificuldade, Contests e Conflitos#Cover|cobertura disponível]] ao defensor.
+- ***Cobertura (Sempre Considerar)***: Em ambos os casos, modifique os testes conforme o tipo e nível de [[Dificuldade, Contests e Conflitos#Cover|cobertura disponível]] ao defensor.
 
 ### Firearms em Close-Quarters Combat
 

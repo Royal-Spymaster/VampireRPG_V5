@@ -233,14 +233,12 @@ Representa um número maior que 1 e menor que 6 (significando que esse dado voc�
 ![[Pasted image 20241125070643.png]]
 
 ---
-
 #### Sucesso (Fome): 
 Um número maior ou igual a 6, e menor ou igual a 9 (tirou 6, 7, 8 ou 9)
 
-![[Pasted image 20241125071032.png]]
+![[Pasted image 20250120205929.png]]
 
 ---
-
 #### Resultado Máximo (Fome)
 Tirou 10. Isso significa um possível [[#Messy Critical]].
 
